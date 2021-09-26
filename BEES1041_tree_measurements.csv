@@ -1,631 +1,612 @@
 student_name,tree_name,location_method,latitude,longitude,height_method,tree_height_m,dbh_method,dbh_cm,tree_type,euc_or_not,terrain_type,forest_or_alone,other_notes
-Aaliyah Ardiansyah,Randall Boggs,google maps phone,-33.1992,151.14598,angle,14.17,flexible tape,30.2,unsure,unknown,flat,alone,"leaning quite a bit, next to watertank"
 Aaliyah Ardiansyah,Ted,Google maps Phone,-33.91823,151.14809,angle,25.71,flexible tape,79.8,Eucalypt,Eucalypt,slight slope,alone,
-Aaliyah Ardiansyah,Mike Wazowski,google maps phone,-33.91995,151.14622,angle,10.85,flexible tape,11.4,eucalypt,Eucalypt,flat,forest,next to oval
-Aaliyah Ardiansyah,Boo,google maps phone,-33.91984,151.14599,angle,11.19,flexible tape,11.5,eucalypt,Eucalypt,flat,forest,next to oval
-Aaliyah Ardiansyah,Celia Mae,google maps phone,-33.91997,151.1458,angle,14.39,flexible tape,63.3,unsure,unknown,flat,forest,"wooden structure supporting it's base, next to oval"
-Aaliyah Ardiansyah,James P. Sullivan,google maps phone,-33.91985,151.14584,angle,19.77,flexible tape,54.9,gum tree?,Eucalypt,flat,forest,"Most leaves had lots of holes, maybe a parasite? next to oval"
-Adele Gemmell,g,Google Maps Phone,-33.817476,151.180482,photo,6.12,Flexible Tape,12.10,unknown,unknown,flat,alone,
+Aaliyah Ardiansyah,Randall Boggs,google maps phone,-33.1992,151.14598,angle,14.17,flexible tape,30.2,unsure,unknown,flat,alone,"leaning quite a bit, next to watertank"
+Adele Gemmell,l,Google Maps Phone,-33.818513,151.178517,photo,49.3,Flexible Tape,7,unknown,unknown,slope,alone,
+Adele Gemmell,g,Google Maps Phone,-33.817476,151.180482,photo,6.12,Flexible Tape,12.1,unknown,unknown,flat,alone,
+Adele Gemmell,e2,Google Maps Phone,-33.81689,151.178744,photo,18.28,Flexible Tape,71.94,Norfolk Pine,Not Eucalypt,flat,alone,
 Adele Gemmell,e,Google Maps Phone,-33.820795,151.183216,photo,10.66,Flexible Tape,28.65,Jacaranda?,Not Eucalypt,flat,alone,
-Adele Gemmell,a,Google Maps Phone,-33.820836,151.184127,photo,14.69,Flexible Tape,19.10,Blue gum,Eucalypt,slope,alone,
-Adele Gemmell,e2,Google Maps Phone,-33.816890,151.178744,photo,18.28,Flexible Tape,71.94,Norfolk Pine,Not Eucalypt,flat,alone,
-Adele Gemmell,d,Google Maps Phone,-33.820850,151.183946,photo,25.13,Flexible Tape,53.16,Blue gum,Eucalypt,slope,alone,
-Adele Gemmell,l,Google Maps Phone,-33.818513,151.178517,photo,49.30,Flexible Tape,7.00,unknown,unknown,slope,alone,
+Adele Gemmell,d,Google Maps Phone,-33.82085,151.183946,photo,25.13,Flexible Tape,53.16,Blue gum,Eucalypt,slope,alone,
+Adele Gemmell,a,Google Maps Phone,-33.820836,151.184127,photo,14.69,Flexible Tape,19.1,Blue gum,Eucalypt,slope,alone,
+Aidan Lowe,Speedwagon,Google Maps broswer,-33.90799,151.21961,photo,13.6,Flexible tape,39.1,Eucalyptus,Eucalypt,flat,alone,
+Aidan Lowe,Poseidon,Google Maps broswer,-33.90835,151.21966,photo,10.6,Flexible tape,24.8,Casuarina,Not Eucalypt,flat,alone,
 Aidan Lowe,Hades,Google Maps broswer,-33.90785,151.2195,photo,6,Flexible tape,25.3,n/a,unknown,moderate-steep,alone,
 Aidan Lowe,Artemis,Google Maps broswer,-33.90868,151.22008,photo,7.8,Flexible tape,37.9,n/a,unknown,flat,alone,
-Aidan Lowe,Poseidon,Google Maps broswer,-33.90835,151.21966,photo,10.6,Flexible tape,24.8,Casuarina,Not Eucalypt,flat,alone,
-Aidan Lowe,Speedwagon,Google Maps broswer,-33.90799,151.21961,photo,13.6,Flexible tape,39.1,Eucalyptus,Eucalypt,flat,alone,
-Aidan Lowe,Aphrodite,Google Maps broswer,-33.90733,151.22532,photo,5.1,Flexible tape,21,n/a,unknown,flat,small group ,
-Aidan Lowe,Persephone,Google Maps broswer,-33.90735,151.22521,photo,5.4,Flexble tape,25.5,n/a,unknown,flat,small group ,
-Alex Kasiou,ARC-77,Google maps (phone),-34.09214,150.99916,angle,6.25,flexible tape measure,21.33,Banksia?,Not Eucalypt,slope,forest,bushland
-Alex Kasiou,Zink Fan,Google maps (phone),-34.08997,150.99843,angle,6.92,flexible tape measure,17.67,Ferntree?,Not Eucalypt,slope,forest,bushland
-Alex Kasiou,Reginald (Reggie (Derogatory)),Google maps (phone),-34.08996,150.99969,angle,8.09,flexible tape measure,10.28,Gum?,Eucalypt,flat,forest,bushland
-Alex Kasiou,Anguish,Google maps (phone),-34.0918,150.99682,angle,9.47,flexible tape measure,48.7,Gum,Eucalypt,slope,forest,bushland
-Alex Kasiou,Christoph,Google maps (phone),-34.09154,150.99921,angle,12.13,flexible tape measure,30.56,Unknown,unknown,slope,forest,bushland
-Alex Kasiou,Riley (Tiles),Google maps (phone),-34.09085,150.99962,angle,20.78,flexible tape measure,46.7,Unknown,unknown,flat,forest,bushland
+Alex Lam,Sugar,google maps phone,-33.93391,150.93305,photo,20.46,flexible tape,32.47,Melaleuca,Not Eucalypt,slope,alone,in a park
 Alex Lam,Milk,google maps phone,-33.93361,150.93319,photo,8.54,flexible tape,39.15,Fig,Not Eucalypt,flat,alone,in a park
 Alex Lam,Egg,google maps phone,-33.93418,150.93338,photo,11.52,flexible tape,44.25,Pine,Not Eucalypt,moderate-steep,alone,Next to a pond
-Alex Lam,Sugar,google maps phone,-33.93391,150.93305,photo,20.46,flexible tape,32.47,Melaleuca,Not Eucalypt,slope,alone,in a park
-Alex Lam,Flour,google maps phone,-33.93303,150.93316,photo,13.6,flexible tape,27.69,,unknown,moderate-steep,forest,in a park
-Alex Lam,Cream,google maps phone,-33.93234,150.93331,photo,18.01,flexible tape,58.25,Eucalptus,Eucalypt,flat,forest,in a park
-Alex Lam,Butter,google maps phone,-33.93273,150.93396,photo,27.36,flexible tape,45.2,Melaleuca,Not Eucalypt,moderate-steep,forest,in a park
 Alina Gregory,Saturn,Google Maps (phone),-33.980016,151.236226,photo,8.2,flexible tape,30.5,known,unknown,flat,alone,
-Alina Gregory,Jupiter,Google Maps (phone),-33.981208,151.236738,photo,12.6,flexible tape,56.02,unknown,unknown,slope,alone,
 Alina Gregory,Mars,Google Maps (phone),-33.981643,151.236461,photo,14.9,flexible tape,42.01,eucalypt?,Eucalypt,slope,alone,
-Alina Gregory,Venus ,Google Maps (phone),-33.984607,151.235981,photo,11.8,flexible tape,43.89,stringy bark?,Eucalypt,flat,small group ,
-Alina Gregory,Mercury,Google Maps (phone),-33.984543,151.235711,photo,12.5,flexible tape,48.97,unknown,unknown,flat,small group ,
-Alina Gregory,Earth,Google Maps (phone),-33.984982,151.235361,photo,13.4,flexible tape,53.15,stringy bark?,Eucalypt,flat,small group ,
-Alvin Yao,Barry,Google Maps Phone App,-33.791187,151.0912766,photo,4.51,Flexible Tape,10.63,Eriobotrya (Loquat),Not Eucalypt,flat,alone,Backyard
-Alvin Yao,McHarry,Google Maps Phone App,-33.7912129,151.0912508,photo,5.62,Flexible Tape,10.50,Persea (Avocado),Not Eucalypt,flat,alone,Backyard
-Alvin Yao,McLarry,Google Maps Phone App,-33.79115642,151.0923693,photo,6.00,Flexible Tape,49.66,Coniferous,Not Eucalypt,flat,alone,Tape was only 150cm long and so circumference is probably innacurate
+Alina Gregory,Jupiter,Google Maps (phone),-33.981208,151.236738,photo,12.6,flexible tape,56.02,unknown,unknown,slope,alone,
+Alvin Yao,McLarry,Google Maps Phone App,-33.79115642,151.0923693,photo,6,Flexible Tape,49.66,Coniferous,Not Eucalypt,flat,alone,Tape was only 150cm long and so circumference is probably innacurate
+Alvin Yao,McHarry,Google Maps Phone App,-33.7912129,151.0912508,photo,5.62,Flexible Tape,10.5,Persea (Avocado),Not Eucalypt,flat,alone,Backyard
 Alvin Yao,Larry,Google Maps Web,-33.79136498,151.0911553,photo,11.26,Flexible Tape,36.06,Camellia,Not Eucalypt,slope,alone,A tree in my driveway which has not been pruned
-Alvin Yao,Harry,Google Maps Phone App,-33.7888974,151.0925986,photo,18.67,Flexible Tape,46.47,Eucalyptus,Eucalypt,flat,forest,height may have been innacurate due to blurry image and angle of photo taken，A tree in Jim Welsh park
-Alvin Yao,McBarry,Google Maps Phone App,-33.7890599,151.0921477,photo,22.80,Flexible Tape,50.77,Pine,Not Eucalypt,flat,forest,"Jim Welsh Park, one of a group of 3"
-Amber Cashman,Venus ,Google maps (phone),-32.325417,152.5268717,angle,2.51,flexible tape,5.09,native,unknown,flat,forest,
-Amber Cashman,Green Machine ,Google maps (phone),-32.325298,152.526931,angle,5.6,flexible tape,7.32,native,unknown,flat,forest,
-Amber Cashman,Bendy Wendy ,Google maps (phone),-32.32523,152.526615,angle,11.5,flexible tape,28.64,paper bark,Not Eucalypt,flat,forest,
-Amber Cashman,Straight Mate ,Google maps (phone),-32.32569,152.527034,angle,11.65,flexible tape,30.56,paper bark,Not Eucalypt,flat,forest,
-Amber Cashman,Tall Paul ,Google maps (phone),-32.32488,152.526807,angle,38.3,flexible tape,138.78,Gum,Eucalypt,flat ,forest ,
-Amber Cashman ,Moss Ross ,Google maps (phone),-32.32551,152.52708,angle ,27.2,flexible tape,79.57,casuarina,Not Eucalypt,flat ,forest ,
-Amena Rahman,Mozzarella,Google maps browser,-33.93284,151.092507,angle,11.1,flexible tape ,51.57,bottle bush tree,Not Eucalypt,slope,alone,
+Alvin Yao,Barry,Google Maps Phone App,-33.791187,151.0912766,photo,4.51,Flexible Tape,10.63,Eriobotrya (Loquat),Not Eucalypt,flat,alone,Backyard
 Amena Rahman,Parmesan,Google maps browser,-33.93322,151.091944,angle,15.02,flexible tape ,68.44,eucalyptus,Eucalypt,slope,alone,
+Amena Rahman,Mozzarella,Google maps browser,-33.93284,151.092507,angle,11.1,flexible tape ,51.57,bottle bush tree,Not Eucalypt,slope,alone,
 Amena Rahman,Gouda,Google maps browser,-33.933099,151.092095,angle,15.57,flexible tape ,69.71,palm tree,Not Eucalypt,slope,alone,
 Amena Rahman,Cheddar,Google maps browser,-33.934576,151.09289,angle,16.03,flexible tape ,47.11,unsure,Not Eucalypt,flat,alone,
-Amena Rahman,Brie,Google maps browser,-33.934467,151.093605,angle,6.26,flexible tape ,22.6,unsure,unknown,flat,forest,
-Amena Rahman,Feta,Google maps browser,-33.934513,151.09341,angle,14.7,flexible tape ,55.7,unsure,unknown,flat,forest,
-Andreas Bartnitzky,Pretty Patricia ,Google maps browser,-33.669937,151.290045,angle,6.2,metal tape measure,4.7,Magnolia,unknown,slope,alone,
-Andreas Bartnitzky,Weird Guy,Google maps browser,-33.669720,151.290472,angle,9.5,metal tape measure,9.5,Some type of fig,Not Eucalypt,slope,alone,
-Andreas Bartnitzky,Pastey Pete,Google maps browser,-33.669726,151.290477,angle,14.3,metal tape measure,57.3,Paper bark,Not Eucalypt,slope,alone,
-Andreas Bartnitzky,Big Fat Rob,Google maps browser,-33.670040,151.290007,angle,15,metal tape measure,64.3,Palm,Not Eucalypt,slope,alone,small cluster of other palm trees around it
-Andreas Bartnitzky,Generic Jim,Google maps browser,-33.670096,151.290207,angle,17.6,metal tape measure,41.4,Paper bark,Not Eucalypt,slope,alone,
+Andreas Bartnitzky,Weird Guy,Google maps browser,-33.66972,151.290472,angle,9.5,metal tape measure,9.5,Some type of fig,Not Eucalypt,slope,alone,
 Andreas Bartnitzky,Tall Tim,Google maps browser,-33.669625,151.290416,angle,24.6,metal tape measure,50.9,Pine,Not Eucalypt,slope,alone,
-Anh Quach,Nancy,Google maps,-33.951268,151.0316694,photo,7.3,Flexible tape ,38,,unknown,flat,alone,
+Andreas Bartnitzky,Pretty Patricia ,Google maps browser,-33.669937,151.290045,angle,6.2,metal tape measure,4.7,Magnolia,unknown,slope,alone,
+Andreas Bartnitzky,Pastey Pete,Google maps browser,-33.669726,151.290477,angle,14.3,metal tape measure,57.3,Paper bark,Not Eucalypt,slope,alone,
+Andreas Bartnitzky,Generic Jim,Google maps browser,-33.670096,151.290207,angle,17.6,metal tape measure,41.4,Paper bark,Not Eucalypt,slope,alone,
+Andreas Bartnitzky,Big Fat Rob,Google maps browser,-33.67004,151.290007,angle,15,metal tape measure,64.3,Palm,Not Eucalypt,slope,alone,small cluster of other palm trees around it
 Anh Quach,Percy,Google maps,-33.951238,151.0316631,photo,7.6,Flexible tape,23,,unknown,flat,alone,
-Anh Quach,Xeric ,Google maps,-33.951287,151.0316625,photo,5.4,Flexible tape ,32,,unknown,flat,alone ,
+Anh Quach,Nancy,Google maps,-33.951268,151.0316694,photo,7.3,Flexible tape ,38,,unknown,flat,alone,
 Anh Quach ,Toad ,Google maps ,-33.951276,151.0316653,photo,6.2,Flexible tape,37,,unknown,flat,alone,
-Anh Quach ,Arid,Google maps,-33.951285,151.0316612,photo,6.5,Flexible tape,25,,unknown,flat,alone,
 Anh Quach ,Sj ,Google maps,-33.951292,151.031665,photo,7.15,Flexible tape,40,,unknown,flat,alone,
-Antonia Dreierova,strom1,Google Maps (browser),-33.655187,151.123518,photo,11.32,Tape measure,37.56,Eucalyptus,Eucalypt,slope,alone,
-Antonia Dreierova,strom5,Google Maps (browser),-33.659722,151.123458,photo,14.76,Tape measure,56.02,Gumtree,Eucalypt,flat,alone,
+Anh Quach ,Arid,Google maps,-33.951285,151.0316612,photo,6.5,Flexible tape,25,,unknown,flat,alone,
 Antonia Dreierova,strom6,Google Maps (browser),-33.660071,151.123953,photo,15.14,Tape measure,59.21,Pine,Not Eucalypt,slope,alone,
-Antonia Dreierova,strom3,Google Maps (browser),-33.658179,151.121855,photo,7.89,Tape measure,17.83,Unknown,unknown,flat ,forest,
-Antonia Dreierova,strom4,Google Maps (browser),-33.658179,151.121855,photo,7.89,Tape measure,17.19,Unknown,unknown,flat ,forest,
-Antonia Dreierova,strom2,Google Maps (browser),-33.658081,151.121876,photo,8.02,Tape measure,18.14,Unknown,unknown,flat ,forest,
-Arianah Pantazis,Red,Google Maps on Phone,-34.063339,150.821415,Photo,6.61,String,25.78,Bottlebrush,Not Eucalypt,Flat,Alone,Nature Strip
-Arianah Pantazis,Gina,Google Maps on Phone,-34.064001,150.819205,Photo,8.48,String,55.7,Palm,Not Eucalypt,Flat,Alone,Nature Strip
-Arianah Pantazis,Skinny Mini,Google Maps on Phone,-34.06418,150.821899,Photo,5.86,String,20.69,Eucalypt,Eucalypt,Flat,Small Group,Park
-Arianah Pantazis,Scruffy,Google Maps on Phone,-34.063049,150.820755,Photo,7.16,String,43.29,Pine,Not Eucalypt,Flat,Small Group,Park
-Arianah Pantazis,Ashton,Google Maps on Phone,-34.063493,150.821154,Photo,8.35,String,44.56,Ash Tree,Not Eucalypt,Flat,Small Group,Park
-Arianah Pantazis,Cockatoo,Google Maps on Phone,-34.064466,150.822075,Photo,12.53,String,92.31,Eucalypt,Eucalypt,Flat,Small Group,Park
+Antonia Dreierova,strom5,Google Maps (browser),-33.659722,151.123458,photo,14.76,Tape measure,56.02,Gumtree,Eucalypt,flat,alone,
+Antonia Dreierova,strom1,Google Maps (browser),-33.655187,151.123518,photo,11.32,Tape measure,37.56,Eucalyptus,Eucalypt,slope,alone,
+Arianah Pantazis,Red,Google Maps on Phone,-34.063339,150.821415,Photo,6.61,String,25.78,Bottlebrush,Not Eucalypt,Flat,alone,Nature Strip
+Arianah Pantazis,Gina,Google Maps on Phone,-34.064001,150.819205,Photo,8.48,String,55.7,Palm,Not Eucalypt,Flat,alone,Nature Strip
 Ashley purcell,Kourt,Google maps phone,-33.7624833,151.0368962,angle,10.9,Flexible tape,23.24,eucalyptus ,Eucalypt,slope ,alone,
 Ashley Purcell ,Kylie,Google maps phone,-33.7621179,151.0386567,angle,4.45,Flexible tape,39.79,Na,unknown,flat,alone,
 Ashley Purcell ,Kim,Google maps phone,-33.7617369,151.0452456,angle,14.8,Flexible tape,20.69,Eucalyptus,Eucalypt,slope,alone,At the park 
-Ashley Purcell ,Kendall,Google maps phone,-33.7636598,151.0433047,angle,2.85,Flexible tape,13.05,Myrtacae ,unknown,flat ,alone ,Side of the road 
-Ashley Purcell ,Scott,Google maps phone,-33.7608201,151.0410006,angle,7.5,Flexible tape,13.37,Eucalyptus ,Eucalypt,flat,alone ,
-Ashley Purcell ,Khloe ,Google maps phone,-33.7631765,151.0377816,angle,12.2,Flexible tape,77.35,Palm tree ,Not Eucalypt,flat,alone ,
-Bailey Langham,Miami,google maps browser,-33.519306,150.652662,photo,5.4,flexible tape,9.23,Unsure,unknown,moderate-steep,alone,Natural
-Bailey Langham,Toronto,google maps browser,-33.519667,150.653402,photo,7.5,flexible tape,46.79,Paper Bark,Not Eucalypt,slope,alone,Planted
 Bailey Langham,Vancouver,google maps browser,-33.519553,150.653102,photo,13.7,flexible tape,30.4,Blue Mountain Ash,Eucalypt,slope,alone,Natural
+Bailey Langham,Toronto,google maps browser,-33.519667,150.653402,photo,7.5,flexible tape,46.79,Paper Bark,Not Eucalypt,slope,alone,Planted
 Bailey Langham,Taupo,google maps browser,-33.519279,150.653011,photo,16.3,flexible tape,33.1,Coastal Ironbark,Eucalypt,moderate-steep,alone,Natural
 Bailey Langham,New York,google maps browser,-33.519552,150.653213,photo,20.6,flexible tape,88.17,Coastal Ironbark,Eucalypt,slope,alone,Natural
+Bailey Langham,Miami,google maps browser,-33.519306,150.652662,photo,5.4,flexible tape,9.23,Unsure,unknown,moderate-steep,alone,Natural
 Bailey Langham,Cali,google maps browser,-33.519595,150.653294,photo,25.5,flexible tape,90.4,Coastal Ironbark,Eucalypt,slope,alone,Natural
-Ben Clow,Cole,Google Maps Phone,-33.89152,151.26862,photo,4.1,Tape Measure,12.4,Maple,Not Eucalypt,flat,alone,
-Ben Clow,Kendrick,Google Maps Phone,-33.89151,151.26861,photo,4.15,Tape Measure,10.3,Maple,Not Eucalypt,flat,alone,
 Ben Clow,Ye,Google Maps Phone,-33.8915,151.26857,photo,5.65,Tape Measure,13.2,Eucalyptus,Eucalypt,flat,alone,
 Ben Clow,Uzi,Google Maps Phone,-33.89079,151.2688,photo,8.4,Tape Measure,38.6,Fig,Not Eucalypt,slope,alone,
 Ben Clow,Rocky,Google Maps Phone,-33.8906,151.26916,photo,10.4,Tape Measure,52.7,Fig,Not Eucalypt,slope,alone,
+Ben Clow,Kendrick,Google Maps Phone,-33.89151,151.26861,photo,4.15,Tape Measure,10.3,Maple,Not Eucalypt,flat,alone,
 Ben Clow,Denzel,Google Maps Phone,-33.89068,151.26912,photo,12.2,Tape Measure,58.85,Fig,Not Eucalypt,slope,alone,
-Bianca Schwaiger,cute little boi,Google Maps (phone),-33.888286,151.206165,photo,7.07,flexible tape,65,Fig ,Not Eucalypt,flat,alone,
-Bianca Schwaiger,should have been taller boi ,Google Maps (phone),-33.895805,151.206472,photo,8.19,flexible tape,182,palm,Not Eucalypt,flat,alone,
-Bianca Schwaiger,a girthy boi ,Google Maps (phone),-33.895769,151.205463,photo,8.76,flexible tape,96,bottle tree,Not Eucalypt,flat,alone,
+Ben Clow,Cole,Google Maps Phone,-33.89152,151.26862,photo,4.1,Tape Measure,12.4,Maple,Not Eucalypt,flat,alone,
 Bianca Schwaiger,skinny tall boi,Google Maps (phone),-33.893883,151.205625,photo,9.53,flexible tape,383,unsure,unknown,slope,alone,
+Bianca Schwaiger,should have been taller boi ,Google Maps (phone),-33.895805,151.206472,photo,8.19,flexible tape,182,palm,Not Eucalypt,flat,alone,
+Bianca Schwaiger,cute little boi,Google Maps (phone),-33.888286,151.206165,photo,7.07,flexible tape,65,Fig ,Not Eucalypt,flat,alone,
 Bianca Schwaiger,acorn shaped boi ,Google Maps (phone),-33.894214,151.206084,photo,14.1,flexible tape,266,Fig?,Not Eucalypt,flat,alone,
+Bianca Schwaiger,a girthy boi ,Google Maps (phone),-33.895769,151.205463,photo,8.76,flexible tape,96,bottle tree,Not Eucalypt,flat,alone,
 Bianca Schwaiger,a bit too tall boi,Google Maps (phone),-33.894358,151.206499,photo,27,flexible tape,114,palm,Not Eucalypt,flat,alone,
+Bryce Liddell,Pine 1,Google Maps,-33.988395,151.232181,photo,22.89,Tape Measure,111.41,Pine,Not Eucalypt,flat ,alone,
 Bryce Liddell,Gum 1,Google Maps,-33.990667,151.24729,photo,8.62,Tape Measure,34.38,Gum,Not Eucalypt,flat ,alone,
 Bryce Liddell,Fig 1,Google Maps,-33.985186,151.232603,photo,17.25,Tape Measure,233.32,Fig,Not Eucalypt,slope,alone,
-Bryce Liddell,Pine 1,Google Maps,-33.988395,151.232181,photo,22.89,Tape Measure,111.41,Pine,Not Eucalypt,flat ,alone,
-Bryce Liddell,Banksia 1,Google Maps,-33.988001,151.23852,photo,11.01,Tape Measure,37.24,Banksia,Not Eucalypt,slope,forest,
-Bryce Liddell,Gum 2,Google Maps,-33.990737,151.248031,photo,11.43,Tape Measure,40.43,Gum,Not Eucalypt,flat ,forest,
-Bryce Liddell,Casuarina 1,Google Maps,-33.985631,151.235735,photo,12,Tape Measure,31.19,Casuarina,Not Eucalypt,flat ,forest,
-Calum Smith,Sylveon,Google Maps (phone),-33.464327,151.431066,angle,4,Measure App,,?,unknown,flat,forest,semi-forest
-Calum Smith,Espeon,Google Maps (phone),-33.466228,151.423702,angle,7,Measure App,,Portwine Magnolia,Not Eucalypt,flat,forest,semi-forest
-Calum Smith,Leafeon,Google Maps (phone),-33.463338,151.432691,angle,24,Measure App,,?,unknown,flat,forest,semi-forest
-Calum Smith,Umbreon,Google Maps (phone),-33.464421,151.434059,angle,68,Measure App,,Pine,Not Eucalypt,flat,forest,semi-forest
-Calum Smith,Glaceon,Google Maps (phone),-33.463982,151.430901,angle,80,Measure App,,Pine,Not Eucalypt,flat,forest,semi-forest
 Campbell Maconachie,Henry the Octopus,Google maps phone,-33.75997,151.229443,photo,8.45,flexible tape,62.71,Melaleuca,Not Eucalypt,flat,alone,
-Campbell Maconachie,Jeff,Google maps phone,-33.761284,151.227465,photo,2.47,flexible tape,6.05,Banksia,Not Eucalypt,flat,forest,
-Campbell Maconachie,Captain Feathersword,Google maps phone,-33.760454,151.229314,photo,2.78,flexible tape,3.82,non-native,Not Eucalypt,flat,forest,
-Campbell Maconachie,Shirley Shawn the Unicorn,Google maps phone,-33.760081,151.228084,photo,4.41,flexible tape,5.73,Eucalyptus ,Eucalypt,slope,forest,
-Campbell Maconachie,Wags the Dog,Google maps phone,-33.759964,151.229191,photo,6.44,flexible tape,7,Angophora,Eucalypt,flat,forest,
-Campbell Maconachie,Dorothy the Dinosaur,Google maps phone,-33.759285,151.229508,photo,10.81,flexible tape,25.84,Eucalyptus,Eucalypt,flat,forest,
-Carey Maeder ,Cash cup warrior,Google maps ,-33.715029,151.007641,photo,2.1,flexable tape ,25,NA,unknown,moderate-steep,forest ,ungualting hills 
-Carey Maeder ,Piece controlled,Google maps ,-33.714704,151.007589,photo,2.3,flexable tape ,21,NA,unknown,moderate-steep,forest ,ungualting hills 
-Carey Maeder ,Champions league ,Google maps ,-33.714592,151.008098,photo,3.1,flexable tape ,26,NA,unknown,moderate-steep,forest ,ungualting hills 
-Carey Maeder ,David,Google maps ,-33.719411,151.014408,photo,4.7,flexable tape ,33,NA,unknown,moderate-steep,forest ,ungualting hills 
-Carey Maeder ,Kid cudi ,Google maps ,-33.714639,151.007802,photo,5.4,flexable tape ,34,NA,unknown,moderate-steep,forest ,ungualting hills 
-Carey Maeder ,cheif keef ,Google maps ,-33.71483,151.007414,photo,5.6,flexable tape ,36,NA,unknown,moderate-steep,forest ,ungualting hills 
 Carla Brown,woody_harrelson,google maps app,-33.89385,151.17819,photo,6.01,flexible tape,11.46,Eucalyptus,Eucalypt,slope,alone,grouped with other tree types
-Carla Brown,figgy_azalea,google maps app,-33.89453,151.17958,photo,7.12,flexible tape,47.75,Phoenix,Not Eucalypt,flat,alone,grouped with other tree types
 Carla Brown,spruce_willis,google maps app,-33.89502,151.17913,photo,9.08,flexible tape,46.15,Melaleuca,Not Eucalypt,flat,alone,grouped with other tree types
-Carla Brown,elijah_wood,google maps app,-33.89378,151.17738,photo,9.79,flexible tape,50.29,Eucalyptus,Eucalypt,flat,alone,roadside
-Carla Brown,queen_latreefah,google maps app,-33.89373,151.18200,photo,10.24,flexible tape,30.56,Gleditsia,Not Eucalypt,flat,alone,roadside
+Carla Brown,queen_latreefah,google maps app,-33.89373,151.182,photo,10.24,flexible tape,30.56,Gleditsia,Not Eucalypt,flat,alone,roadside
 Carla Brown,leaf_erikson,google maps app,-33.89404,151.17802,photo,15.37,flexible tape,64.62,Corymbia,Eucalypt,flat,alone,grouped with other tree types
-Cassandra Choueifati,Jim,Google Maps (phone),-33.9445023,151.0991647,photo,4.38,flexible tape measure,41.38,n/a ,unknown,flat,alone ,
-Cassandra Choueifati,Toby,Google Maps (phone),-33.9439232,151.0991466,photo,8.15,flexible tape measure,54.11,n/a ,unknown,flat ,alone ,
-Cassandra Choueifati,Pam,Google Maps (phone),-33.9416093,151.0998097,photo,9.54,flexible tape measure,49.66,Eucalyptus piperita,Eucalypt,flat ,alone ,
-Cassandra Choueifati,Dwight,Google Maps (phone),-33.9460025,151.0996049,photo,9.78,flexible tape measure,46.15,n/a ,unknown,flat ,alone ,
-Cassandra Choueifati,Michael Scott,Google Maps (phone),-33.9465657,151.0986765,photo,13.35,flexible tape measure,92.31,Eucalyptus robusta,Eucalypt,flat ,alone ,
-Cassandra Choueifati,Kevin,Google Maps (phone),-33.9464748,151.0993692,photo,14.26,flexible tape measure,87.22,n/a ,unknown,flat ,alone ,
-Charlie Zekanovic,Skinny Tree 2,Google Maps browser ,-31.540193,152.808986,photo,8.5,Flexible Tape,19.4,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Charlie Zekanovic,Skinny Tree 1 ,Google Maps browser ,-31.539359,152.809385,photo,9.12,Flexible Tape,13.5,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Charlie Zekanovic,Skinny Tree 3 ,Google Maps browser ,-31.541257,152.808465,photo,13.9,Flexible Tape,31.1,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Charlie Zekanovic,Skinny Tree 4,Google Maps browser ,-31.540869,152.808727,photo,13.9,Flexible Tape,20.8,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Charlie Zekanovic,Medium Tree 1,Google Maps browser ,-31.539826,152.809108,photo,18.7,Flexible Tape,35.4,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Charlie Zekanovic,Big Tree 1,Google Maps browser ,-31.540592,152.809539,photo,18.8,Flexible Tape,47.7,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
-Claire Luger,Posh Spice,Google Maps Phone App,-33.733788,151.109249,photo,8.95,flexible Tape,38.52,Malus,Not Eucalypt,flat,alone,
+Carla Brown,figgy_azalea,google maps app,-33.89453,151.17958,photo,7.12,flexible tape,47.75,Phoenix,Not Eucalypt,flat,alone,grouped with other tree types
+Carla Brown,elijah_wood,google maps app,-33.89378,151.17738,photo,9.79,flexible tape,50.29,Eucalyptus,Eucalypt,flat,alone,roadside
 Claire Luger,Sporty Spice,Google Maps Phone App,-33.733044,151.109614,photo,12.98,Flexible Tape,44.88,Silky Oak,Not Eucalypt,slope,alone,
+Claire Luger,Posh Spice,Google Maps Phone App,-33.733788,151.109249,photo,8.95,flexible Tape,38.52,Malus,Not Eucalypt,flat,alone,
 Claire Luger,Ginger,Google Maps Phone App,-33.733554,151.109522,photo,17.15,flexible Tape,64.94,Eucalypt,Eucalypt,flat,alone,
-Claire Luger,Scary Spice,Google Maps Phone App,-33.733013,151.109817,photo,5.07,flexible Tape,16.07,Tree Fern,Not Eucalypt,slope,forest,
-Claire Luger,Baby Spice,Google Maps Phone App,-33.733067,151.109976,photo,13.13,flexible Tape,51.88,Eucalypt,Eucalypt,moderate-steep,forest,
+Clare Jackson,Wild Mushroom Risotto,google maps (browser),-33.88281,150.84318,photo,30.7,flexible tape,146.1,eucalypt,Eucalypt,slope,alone,long grass at base
 Clare Jackson,Tortellini Boscaiola ,google maps (browser),-33.88327,150.84832,photo,13.9,flexible tape,47.3,eucalypt,Eucalypt,flat,alone,dirt around base
 Clare Jackson,Spaghetti Con Salsicce,google maps (browser),-33.88349,150.84537,photo,22.1,flexible tape,100.9,eucalypt,Eucalypt,flat,alone,"vegetation surrounding base, at the bottom of an incline"
-Clare Jackson,Wild Mushroom Risotto,google maps (browser),-33.88281,150.84318,photo,30.7,flexible tape,146.1,eucalypt,Eucalypt,slope,alone,long grass at base
-Clare Jackson,Napoletana Pata,google maps (browser),-33.88392,150.84597,photo,5.2,flexible tape,7,eucalypt,Eucalypt,slope,small group ,grassy at base
-Clare Jackson,Linguini Villaggio,google maps (browser) ,-33.88607,150.84699,photo,6.4,flexible tape,29.8,eucalypt,Eucalypt,flat,small group ,dirt around base
-Clare Jackson,Gnocchi Amoretti,google maps (browser),-33.88394,150.84593,photo,10.6,flexible tape,19.1,eucalypt,Eucalypt,slope,small group ,grassy at base
-Claudia Lambert-Bridges,minor,Google Maps (phone),-33.8923591,151.2344768,angle,11,tape Measure,14.6,banksia,Not Eucalypt,flat,alone,
-Claudia Lambert-Bridges,major,Google Maps (phone),-33.8922377,151.234866,angle,12.11,tape Measure,21,red gum,Eucalypt,flat,alone,
 Claudia Lambert-Bridges,wands,Google Maps (phone),-33.892958,151.2348737,angle,20.33,tape Measure,73.2,common coral tree,Not Eucalypt,flat,alone,
 Claudia Lambert-Bridges,pentacles,Google Maps (phone),-33.8930785,151.2361337,angle,20.5,tape Measure,21,gum tree,Eucalypt,flat,alone,
-Claudia Lambert-Bridges,cups,Google Maps (phone),-33.892604,151.237068,angle,7.82,tape Measure,14.6,wattle tree,Not Eucalypt,flat,small group ,
-Claudia Lambert-Bridges,swords,Google Maps (phone),-33.893238,151.23761,angle,36.07,tape Measure,108.2,pine tree,Not Eucalypt,flat,small group ,
-Elijah Magistrado,Skinny Legend,Google maps (browser),-33.925485,151.227158,photo,4.52,Flexible tape,17,Callistemon,Not Eucalypt,flat,alone,
-Elijah Magistrado,Mystery Man,Google maps (browser),-33.925839,151.227882,photo,6.92,Flexible tape,30,N/A,unknown,flat,alone,
-Elijah Magistrado,Figgy Azalea,Google maps (browser),-33.925173,151.227549,photo,7.23,Flexible tape,11,Fig,Not Eucalypt,flat,alone,
+Claudia Lambert-Bridges,minor,Google Maps (phone),-33.8923591,151.2344768,angle,11,tape Measure,14.6,banksia,Not Eucalypt,flat,alone,
+Claudia Lambert-Bridges,major,Google Maps (phone),-33.8922377,151.234866,angle,12.11,tape Measure,21,red gum,Eucalypt,flat,alone,
 Elijah Magistrado,Thicc Boi,Google maps (browser),-33.922576,151.228858,photo,9.45,Flexible tape,43.6,Eucalyptus robusta,Eucalypt,slope,alone,
 Elijah Magistrado,Syrup,Google maps (browser),-33.925939,151.227512,photo,11.99,Flexible tape,61,Maple,Not Eucalypt,flat,alone,
+Elijah Magistrado,Skinny Legend,Google maps (browser),-33.925485,151.227158,photo,4.52,Flexible tape,17,Callistemon,Not Eucalypt,flat,alone,
 Elijah Magistrado,Palm Cliver,Google maps (browser),-33.925407,151.227605,photo,13.24,Flexible tape,41,Palm,Not Eucalypt,flat,alone,
-Eliza Menzies,Melbourne,Google Maps (phone),-33.915916,151.228351,angle,7.1,Metal tape,10.6,Unkown,unknown,flat ,alone ,
-Eliza Menzies,Adelaide,Google Maps (phone),-33.915828,151.229382,angle,10.9,Metal tape,14.4,Eucalypt,Eucalypt,flat ,alone ,
-Eliza Menzies,Brisbane,Google Maps (phone),-33.915255,151.229252,angle,16.6,Metal tape,27.4,Spotty Sycamore,Not Eucalypt,slope,alone ,
-Eliza Menzies,Sydney,Google Maps (phone),-33.915905,151.228358,angle,23.7,Metal tape,81.6,Broad-leafed Paperbark,Not Eucalypt,flat ,alone ,
-Eliza Menzies,Perth,Google Maps (phone),-33.915526,151.229399,angle,34.3,Metal tape,160.3,Moreton Bay Fig,Not Eucalypt,flat ,alone ,Part of a row of the same trees lining a road.
+Elijah Magistrado,Mystery Man,Google maps (browser),-33.925839,151.227882,photo,6.92,Flexible tape,30,N/A,unknown,flat,alone,
+Elijah Magistrado,Figgy Azalea,Google maps (browser),-33.925173,151.227549,photo,7.23,Flexible tape,11,Fig,Not Eucalypt,flat,alone,
 Ellie Reardon,Newt,google maps iphone,-33.950327,151.254276,angle,7.8,flexible tape,27.7,,unknown,slope,alone,
 Ellie Reardon,Jones,google maps iphone,-33.949525,151.25517,angle,8.4,flexible tape,30.4,,unknown,flat,alone,
 Ellie Reardon,Ash,google maps iphone,-33.950118,151.254647,angle,10.68,flexible tape,72.6,thick trunk palm tree,Not Eucalypt,flat,alone,next to one other tree
-Ellie Reardon,Ripley,google maps iphone ,-33.949885,151.254203,angle,11.9,flexible tape,53.5,,unknown,flat,small group ,in a park
-Ellie Reardon,Alien,google maps iphone,-33.950443,151.254856,angle,14.4,flexible tape,31.4,,unknown,slope,small group ,in a park
-Ellie Reardon,Lambert,google maps iphone ,-33.949973,151.254285,angle,21.1,flexible tape,40.4,,unknown,flat,small group ,in a park
-Emily Schorowsky,Ivan,Google Maps,-33.9010727,151.2304293,photo,3.74,Flexible Tape,6.37,n/a,unknown,flat,alone,Baby tree
-Emily Schorowsky,Lauren,Google Maps,-33.9032372,151.2345083,photo,5.6,Flexible Tape,19.1,n/a,unknown,flat,alone,
-Emily Schorowsky,Garth,Google Maps,-33.8996168,151.2306073,photo,7.79,Flexible Tape,25.4,Palm tree,Not Eucalypt,flat,alone,
-Emily Schorowsky,Deidre,Google Maps,-33.9013686,151.2341499,photo,7.88,Flexible Tape,37.08,n/a,unknown,flat,alone,
 Emily Schorowsky,Norbert,Google Maps,-33.9013686,151.2341499,photo,8.55,Flexible Tape,79.26,Palm tree,Not Eucalypt,flat,alone,
+Emily Schorowsky,Lauren,Google Maps,-33.9032372,151.2345083,photo,5.6,Flexible Tape,19.1,n/a,unknown,flat,alone,
+Emily Schorowsky,Ivan,Google Maps,-33.9010727,151.2304293,photo,3.74,Flexible Tape,6.37,n/a,unknown,flat,alone,Baby tree
+Emily Schorowsky,Garth,Google Maps,-33.8996168,151.2306073,photo,7.79,Flexible Tape,25.4,Palm tree,Not Eucalypt,flat,alone,
 Emily Schorowsky,Elmer,Google Maps,-33.9006172,151.2337673,photo,9.48,Flexible Tape,45.1,Kauri Pine?,Not Eucalypt,flat,alone,
+Emily Schorowsky,Deidre,Google Maps,-33.9013686,151.2341499,photo,7.88,Flexible Tape,37.08,n/a,unknown,flat,alone,
 Emma Rodwell,Rafeal,google maps on browser,-33.852257,151.151332,angle,4.35,Flexible tape,5.73,Fig,Not Eucalypt,flat,alone,In a park
 Emma Rodwell,Petra,google maps on browser,-33.851486,151.14907,angle,6.85,Flexible tape,21.8,Callistemon,Not Eucalypt,flat,alone,On a curbside
-Emma Rodwell,Anna,google maps on browser,-33.850719,151.147069,angle,9.35,Flexible tape,72.26,Date Palm,Not Eucalypt,flat,alone,Along the bay
 Emma Rodwell,Michael,google maps on browser,-33.852133,151.150627,angle,16.6,Flexible tape,53.48,Eucalyptus,Eucalypt,flat,alone,In a park
-Emma Rodwell,Elsa ,google maps on browser,-33.850612,151.148543,angle,18.65,Flexible tape,37.56,Eucalyptus,Eucalypt,flat,alone,In a park
 Emma Rodwell,Jane ,google maps on browser,-33.852218,151.15081,angle,35.2,Flexible tape,57.45,Bunya Pine,Not Eucalypt,flat,alone,In a park
-Evangeline Faught ,Table ,Google maps (phone app),-33.8643854,151.1792777,photo,4.5,string ,26.4,cupaniopsis anacardioides,Not Eucalypt,flat ,alone ,
-Evangeline Faught ,Chair ,Google maps (phone app),-33.8645346,151.178886,photo,5,string ,23.3,white gum ,Eucalypt,flat ,alone ,
-Evangeline Faught ,Floorboards ,Google maps (phone app),-33.8645491,151.1780277,photo,5.6,string ,38.1,cupaniopsis anacardioides,Not Eucalypt,flat ,alone ,
-Evangeline Faught ,Cabin ,Google maps (phone app),-33.8646042,151.1781792,photo,5.9,string ,23.2,White gum,Eucalypt,flat ,alone ,
-Evangeline Faught ,Clogs ,Google maps (phone app),-33.8644544,151.1790744,photo,6.5,string ,46.7,cupaniopsis anacardioides,Not Eucalypt,flat ,alone ,
-Evangeline Faught ,Door ,Google maps (phone app),-33.8644544,151.1787307,photo ,9,string ,109.1,Stringy bark ,Eucalypt,flat ,alone ,
-Fadhali,joju,Google map app,3.2319773,101.4861491,photo,1.46,retractable metal tape,3.52,N/A,unknown,flat,alone,planted
-Fadhali,jeje,Google map app,3.2311887,101.4861878,photo,3.82,retractable metal tape,3.23,N/A,unknown,slope,alone,planted
+Emma Rodwell,Elsa ,google maps on browser,-33.850612,151.148543,angle,18.65,Flexible tape,37.56,Eucalyptus,Eucalypt,flat,alone,In a park
+Emma Rodwell,Anna,google maps on browser,-33.850719,151.147069,angle,9.35,Flexible tape,72.26,Date Palm,Not Eucalypt,flat,alone,Along the bay
 Fadhali,juju,Google map app,3.2276822,101.488745,photo,3.88,retractable metal tape,9.69,N/A,unknown,flat,alone,natural
-Fadhali,jaja,Google map app,3.237129,101.48762,photo,4.98,retractable metal tape,16.07,N/A,unknown,flat,alone,natural
+Fadhali,joju,Google map app,3.2319773,101.4861491,photo,1.46,retractable metal tape,3.52,N/A,unknown,flat,alone,planted
 Fadhali,jojo,Google map app,3.2249326,101.4868142,photo,9.49,retractable metal tape,54.21,N/A,unknown,flat,alone,natural
 Fadhali,jiji,Google map app,3.227467,101.4889101,photo,10.28,retractable metal tape,51.06,N/A,unknown,flat,alone,natural
+Fadhali,jeje,Google map app,3.2311887,101.4861878,photo,3.82,retractable metal tape,3.23,N/A,unknown,slope,alone,planted
+Fadhali,jaja,Google map app,3.237129,101.48762,photo,4.98,retractable metal tape,16.07,N/A,unknown,flat,alone,natural
 Fariz Nasir,somehow,Google maps phone,2.885491,101.779123,angle,8.71,Flexible tape,19.74,n/a,unknown,flat,alone,
 Fariz Nasir,get easier,Google maps phone,2.885511,101.779412,angle,14.36,Flexible tape,39.15,n/a,unknown,flat,alone,
-Fariz Nasir,"i'm falling, i'm falling",Google maps phone,2.88568,101.779215,photo,6.74,Flexible tape,30.08,n/a,unknown,flat,forest,
-Fariz Nasir,ohh easier,Google maps phone,2.885971,101.779194,photo,8.12,Flexible tape,13.5,n/a,unknown,flat,forest,
-Fariz Nasir,it's,Google maps phone,2.885791,101.779289,photo,16.1,Flexible tape,61.75,n/a,unknown,flat,forest,
-Fariz Nasir,gonna,Google maps phone,2.886861,101.778788,angle,23.97,Flexible tape,45.83,n/a,unknown,flat,forest,
-Finn Tainsh,Lil jump,Google Maps (phone),-33.9272852,151.248088,photo,5.43,flexible tape,64.3,,unknown,flat,alone,Nature strip 
-Finn Tainsh,Lil Magawump,Google Maps (phone),-33.9279793,151.2477976,photo,7.24,flexible tape,98.36,,unknown,flat,alone,Nature strip 
-Finn Tainsh,Lil bump,Google Maps (phone),-33.9277128,151.2478409,photo,7.81,flexible tape,49.66,,Not Eucalypt,flat,alone,Nature strip 
 Finn Tainsh,Lil thump,Google Maps (phone),-33.9275603,151.2478784,photo,9.05,flexible tape,38.2,,Not Eucalypt,flat,alone,Nature strip 
 Finn Tainsh,Lil pump,Google Maps (phone),-33.9273522,151.247929,photo,10.5,flexible tape,23.55,Spotted Gum,Eucalypt,slope,alone,Nature strip 
+Finn Tainsh,Lil Magawump,Google Maps (phone),-33.9279793,151.2477976,photo,7.24,flexible tape,98.36,,unknown,flat,alone,Nature strip 
+Finn Tainsh,Lil jump,Google Maps (phone),-33.9272852,151.248088,photo,5.43,flexible tape,64.3,,unknown,flat,alone,Nature strip 
 Finn Tainsh,Lil gump,Google Maps (phone),-33.9273378,151.2481403,photo,12.27,flexible tape,58.89,Angophora costata,Eucalypt,flat,alone,Front yard
+Finn Tainsh,Lil bump,Google Maps (phone),-33.9277128,151.2478409,photo,7.81,flexible tape,49.66,,Not Eucalypt,flat,alone,Nature strip 
 Finn Tainsh,Big Ben,Google Maps (phone),-33.927355,151.2478254,photo,15.45,flexible tape,84.67,Spotted Gum,Eucalypt,flat,alone,Front yard
-Fiona Dinh,,Google Maps (phone),-33.950476,151.047943,photo,12.6,String Measure,,,unknown,flat,alone,
-Fiona Dinh,,Google Maps (phone),-33.950761,151.046579,photo,8.1,String Measure,,,unknown,flat,forest,
-Fiona Dinh,,Google Maps (phone),-33.85064,151.045971,photo,8.64,String Measure,,,unknown,flat,forest,
-Fiona Dinh,,Google Maps (phone),-33.950715,151.045369,photo,9.9,String Measure,,,unknown,unknown,forest,
-Fiona Dinh,,Google Maps (phone),-33.950756,151.047284,photo,10.8,String Measure,,,unknown,slope,forest,
-Fiona Dinh,,Google Maps (phone),-33.950715,151.045369,photo,11.7,String Measure,,,unknown,unknown,forest,
-Fletcher Arrastia,hank pym,Google Maps (Phone App),-33.7487444,151.2399961,photo,4.13,Flexible tape,29.28,Bottle brush,Not Eucalypt,flat,alone,Close to road
+Fletcher Arrastia,Tony stark,Google Maps (Phone App),-33.7480904,151.2395569,photo,13.95,Flexible tape,86.26,White gum,Eucalypt,slope,alone,Ilford reserve
+Fletcher Arrastia,Thor,Google Maps (Phone App),-33.7479708,151.2394633,photo,6.97,Flexible tape,26.74,White gum,Eucalypt,slope,alone,Ilford reserve
 Fletcher Arrastia,Steve rogers,Google Maps (Phone App),-33.7488453,151.239979,photo,5.15,Flexible tape,24.51,red flowering gum,Eucalypt,flat,alone,Close to road
 Fletcher Arrastia,Peter parker,Google Maps (Phone App),-33.7483491,151.2408359,photo,5.89,Flexible tape,52.52,Sweetgum,Not Eucalypt,slope,alone,Close to road
-Fletcher Arrastia,Thor,Google Maps (Phone App),-33.7479708,151.2394633,photo,6.97,Flexible tape,26.74,White gum,Eucalypt,slope,alone,Ilford reserve
+Fletcher Arrastia,hank pym,Google Maps (Phone App),-33.7487444,151.2399961,photo,4.13,Flexible tape,29.28,Bottle brush,Not Eucalypt,flat,alone,Close to road
 Fletcher Arrastia,Bruce banner,Google Maps (Phone App),-33.748879,151.2399739,photo,7.72,Flexible tape,63.03,White gum,Eucalypt,flat,alone,Close to road
-Fletcher Arrastia,Tony stark,Google Maps (Phone App),-33.7480904,151.2395569,photo,13.95,Flexible tape,86.26,White gum,Eucalypt,slope,alone,Ilford reserve
 Freya Li,TreeB,google maps browser,39.972415,116.28,photo,5.85,flexible tape,12.74,locust tree,Not Eucalypt,flat,alone,
 Freya Li,TreeA,google maps browser,39.972223,116.283458,photo,11.08,flexible tape ,38.22,buttonwood,Not Eucalypt,flat,alone,
-Freya Li,TreeC,google maps browser,39.972782,116.284382,photo,5.29,flexible tape,15.92,cypress,unknown,flat,forest,
-Freya Li,TreeD,google maps browser,39.972794,116.284465,photo,6.32,flexible tape,14.65,pinetree,Not Eucalypt,flat,forest,
-Freya Li,TreeF,google maps browser,39.972773,116.284669,photo,7.06,flexible tape,12.5,unknown,unknown,flat,forest,
-Freya Li,TreeE,google maps browser,39.972794,116.284546,photo,38.4,flexible tape,60.51,willow,Not Eucalypt,flat,forest,
 Gabrielle Yeung,Tree_5,Google Maps (Mac),-33.712843,150.950771,photo,7.22,flexible tape,16.87,Eucalyptus,Eucalypt,flat,alone,
-Gabrielle Yeung,Tree_1,Google Maps (Mac),-33.711729,150.950495,photo,19.9,flexible tape,95.49,Eucalyptus,Eucalypt,flat,forest,
-Gabrielle Yeung,Tree_3,Google Maps (Mac),-33.712523,150.950945,photo,23.75,flexible tape,55.07,Eucalyptus,Eucalypt,flat,forest,
-Gabrielle Yeung,Tree_6,Google Maps (Mac),-33.71235,150.950644,photo,24.93,flexible tape,39.15,Eucalyptus,Eucalypt,flat,forest,
-Gabrielle Yeung,Tree_2,Google Maps (Mac),-33.71168,150.95032,photo,24.97,flexible tape,123.5,Eucalyptus,Eucalypt,flat,forest,
-Gabrielle Yeung,Tree_4,Google Maps (Mac),-33.71253,150.95100,photo,26.06,flexible tape,96.77,Eucalyptus,Eucalypt,flat,forest,
-Georgie Feng,Lettuce,Google Maps (browser),-33.916697,151.092986,photo,6.72,Flexible Tape,27.12,n/a,unknown,flat,alone,At a park
-Georgie Feng,Bird Jr.,Google Maps (browser),-33.917116,151.092113,photo,6.72,Flexible Tape,27.06,eucalyptus,Eucalypt,flat,alone,"baby tree, at a park"
-Georgie Feng,Asparagus,Google Maps (browser),-33.917224,151.091293,photo,8.06,Flexible Tape,37.56,pine,Not Eucalypt,flat,alone,At a park
 Georgie Feng,Mushroom,Google Maps (browser),-33.91733,151.091598,photo,11.9,Flexible Tape,82.12,n/a,unknown,flat,alone,At a park
 Georgie Feng,Melon,Google Maps (browser),-33.917583,151.091535,photo,12.34,Flexible Tape,80.21,n/a,unknown,flat,alone,At a park
+Georgie Feng,Lettuce,Google Maps (browser),-33.916697,151.092986,photo,6.72,Flexible Tape,27.12,n/a,unknown,flat,alone,At a park
+Georgie Feng,Bird Jr.,Google Maps (browser),-33.917116,151.092113,photo,6.72,Flexible Tape,27.06,eucalyptus,Eucalypt,flat,alone,"baby tree, at a park"
 Georgie Feng,Bird,Google Maps (browser),-33.917122,151.091878,photo,16.9,Flexible Tape,115.45,eucalytus,Eucalypt,flat,alone,At a park
-Gerard Roebuck,Medium Malcolm,Google Maps App,-33.494238,150.151524,photo,12.22,Flexible tape,50.9296,Eucalyptus,Eucalypt,slope,alone,Sheedy's Gully
+Georgie Feng,Asparagus,Google Maps (browser),-33.917224,151.091293,photo,8.06,Flexible Tape,37.56,pine,Not Eucalypt,flat,alone,At a park
 Gerard Roebuck,Medium Molly,Google Maps App,-33.494503,150.151555,photo,12.39,Flexible tape,45.8366,Eucalyptus,Eucalypt,slope,alone,Sheedy's Gully
-Gerard Roebuck,Small Sam,Google Maps App,-33.49485,150.15141,photo,4.05,Flexible tape,10.8225,Wattle,Not Eucalypt,slope,forest,Sheedy's Gully
-Gerard Roebuck,Small Sally,Google Maps App,-33.495388,150.151293,photo,6.98,Flexible tape,11.7775,Eucalyptus,Eucalypt,slope,forest,Sheedy's Gully
-Gerard Roebuck,Large Liz,Google Maps App,-33.496577,150.152052,photo,17.66,Flexible tape,63.0254,Eucalyptus,Eucalypt,slope,forest,Sheedy's Gully
-Gerard Roebuck,Large Larry,Google Maps App,-33.495918,150.152052,photo,14.4,Flexible tape,46.4732,Eucalyptus,Eucalypt,slope,forest ,Sheedy's Gully
-Grace Carter,Stonk ,Google maps (browser),-35.325801,149.142061,photo,8.56,Flexible tape,43,,unknown,slope,alone ,
-Grace Carter,Stink,Google maps (browser),-35.325897,149.141639,photo,10.35,Flexible tape,45.33,,unknown,flat ,alone ,
-Grace Carter,Mama,Google maps (browser),-35.309697,149.143149,photo,10.43,Flexible tape,34.6,,unknown,flat ,alone ,
-Grace Carter,Yo ,Google maps (browser),-35.309704,149.142199,photo,13,Flexible tape,38.9,,unknown,flat ,alone ,
-Grace Carter,Carl,Google maps (browser),-35.3115,149.141028,photo,21.23,Flexible tape,46.56,Eucalypt ,Eucalypt,flat ,alone ,
-Grace Carter,Gerry,Google maps (browser),-35.315216,149.136962,photo,25.77,Flexible tape,60.63,Eucalypt ,Eucalypt,flat ,alone ,
-Hajar Alhowaish,imposter,Google Maps (phone),-33.895731,151.239981,photo,9.4,flexible tape,59.5,unsure,unknown,slope,alone,
-Hajar Alhowaish,Blues Clues,Google Maps (phone),-33.895574,151.239542,photo,12.2,flexible tape,80.2,Pine,Not Eucalypt,flat,alone,
+Gerard Roebuck,Medium Malcolm,Google Maps App,-33.494238,150.151524,photo,12.22,Flexible tape,50.9296,Eucalyptus,Eucalypt,slope,alone,Sheedy's Gully
 Hajar Alhowaish,Rat poison ,Google Maps (phone),-33.895267,151.237867,photo,13.6,flexible tape,105.1,Pine,Not Eucalypt,flat,alone,
+Hajar Alhowaish,imposter,Google Maps (phone),-33.895731,151.239981,photo,9.4,flexible tape,59.5,unsure,unknown,slope,alone,
 Hajar Alhowaish,crewmate,Google Maps (phone),-33.894001,151.240512,photo,13.6,flexible tape,51.9,unsure,unknown,moderate-steep,alone,
-Hajar Alhowaish,Bin chicken,Google Maps (phone),-33.896998,151.236358,photo,13.1,flexible tape,38.5,Eucalyptus,Eucalypt,flat,forest,
-Hajar Alhowaish,Magpie master,Google Maps (phone),-33.897185,151.236851,photo,14.5,flexible tape,37.9,Eucalyptus,Eucalypt,slope,forest,
+Hajar Alhowaish,Blues Clues,Google Maps (phone),-33.895574,151.239542,photo,12.2,flexible tape,80.2,Pine,Not Eucalypt,flat,alone,
 Hannah Farrant- Jayet,Wednesday,Google Maps Phone,-33.1398906,148.175244,angle,15.8,Tape measure,37.34,Palm,Not Eucalypt,flat,alone,Community park
 Hannah Farrant- Jayet,Pugsley,Google Maps Phone,-33.1397564,148.1749567,angle,19.9,Tape measure,52.5,Unknown,unknown,flat,alone,Community park
-Hannah Farrant- Jayet,Gomez,Google Maps Phone,-33.1395153,148.1748816,angle,28.8,Tape measure,62.2,Eucalypt,Eucalypt,flat,alone,Community park
 Hannah Farrant- Jayet,Morticia,Google Maps Phone,-33.1396885,148.1744431,angle,29.1,Tape measure,86,Sycamore,Not Eucalypt,flat,alone,Community park
 Hannah Farrant- Jayet,Lurch,Google Maps Phone,-33.1398544,148.174094,angle,30.3,Tape measure,92.3,Grevillia,Not Eucalypt,flat,alone,Community park
-Hannah Farrant- Jayet,Cousin It,Google Maps Phone,-33.1398915,148.1753034,angle,4.5,Tape measure,10,Wollemi Pine,Not Eucalypt,flat,alone ,Community park
-Hannah Gallis,Marie,Apple Maps App,-33.963001,151.250507,photo,4.6,Flexible Tape,20.1,Cupaniopsis,Not Eucalypt,flat,forest,
-Hannah Gallis,Violette,Apple Maps App,-33.961088,151.250508,photo,8.2,Flexible Tape,12.1,casuarinaceae,Not Eucalypt,flat,forest,
-Hannah Gallis,Bella,Apple Maps App,-33.961844,151.250383,photo,11.9,Flexible Tape,51.9,eucalyptus,Eucalypt,flat,forest,Trunk divided in two trunks so measure might be inaccurate
-Hannah Gallis,Leyla,Apple Maps App,-33.961788,151.250713,photo,12.1,Flexible Tape,21.2,eucalyptus,Eucalypt,flat,forest,
-Hannah Gallis,Lily,Apple Maps App,-33.962547,151.250557,photo,13.8,Flexible Tape,43.4,celtis,Not Eucalypt,flat,forest,
-Hannah Gallis,Bruce,Apple Maps App,-33.960748,151.249132,photo,17.8,Flexible Tape,58.6,Araucaria,Not Eucalypt,flat,forest,
-Harry Blackett,Dan,Google Maps Phone,-33.9620966,151.2502676,photo,6.48,Metal Tape Measure,17.51,Not Sure,unknown,flat,forest,
-Harry Blackett,Albo,Google Maps Phone,-33.962472,151.2504815,photo,7.92,Metal Tape Measure,25.46,Not Sure,unknown,flat,forest,
-Harry Blackett,Annastacia ,Google Maps Phone,-33.9623396,151.2506082,photo,13.23,Metal Tape Measure,21,Not Sure,unknown,flat,forest,
-Harry Blackett,Scotty,Google Maps Phone,-33.9627275,151.2502726,photo,14.25,Metal Tape Measure,46.15,Not Sure,unknown,flat,forest,All trees measured in a park near other trees 
-Harry Blackett,Gladys,Google Maps Phone,-33.9627752,151.2501345,photo,15.04,Metal Tape Measure,55.07,Not Sure,unknown,flat,forest,
-Harry Blackett,Dutton ,Google Maps Phone,-33.9620332,151.2502991,photo,15.39,Metal Tape Measure,57.29,Not Sure,unknown,flat,forest,
-Holly Gamboa ,Toad ,Google maps phone,-34.0143099,151.0080728,angle,5.2,Flexible tape,9.86,Northern white cedar ,Not Eucalypt,flat ,alone ,
-Holly Gamboa ,Bowser ,Google maps phone,-34.0140728,151.0071069,angle,7.66,Flexible tape,10.82,unsure ,unknown,slope ,forest,In a Reserve 
-Holly Gamboa ,Mario ,Google maps phone,-34.0142335,151.0081174,angle,15.84,Flexible tape,14.96,Eycalyptus,Eucalypt,slope ,forest,In a Reserve 
-Holly Gamboa ,Princess Peach ,Google maps phone,-34.0139486,151.0068018,angle,18.63,Flexible tape,28.33,Eycalyptus,Eucalypt,flat,forest,In a Reserve 
-Holly Gamboa ,Luigi,Google maps phone,-34.014034,151.007635,angle,22.37,Flexible tape,50.93,Eycalyptus,Eucalypt,flat,forest,In a Reserve 
-Holly Gamboa ,Yoshi ,Google maps phone,-34.014201,151.0079414,angle,25.6,Flexible tape,66.85,Eycalyptus,Eucalypt,flat,forest ,On the edge of the Reserve 
+Hannah Farrant- Jayet,Gomez,Google Maps Phone,-33.1395153,148.1748816,angle,28.8,Tape measure,62.2,Eucalypt,Eucalypt,flat,alone,Community park
 Jack Doyle,Star Lord,google maps phone,-33.93398,151.23257,photo,7.9,flexible tape ,40.74,N/A,unknown,flat,alone,at the park
-Jack Doyle,Baby Groot,google maps phone,-33.93131,151.23389,photo,7.9,flexible tape,39.79,N/A,unknown,flat,alone,
 Jack Doyle,Drax,google maps phone,-33.9331,151.23385,photo,9.28,flexible tape ,54.11,N/A,unknown,slope,alone,
-Jack Doyle,Groot,google maps phone,-33.93612,151.23415,photo,7.6,flexible tape,47.12,N/A,unknown,flat,forest,at the park
-Jack Doyle,Gamora,google maps phone,-33.93597,151.23558,photo,7.95,flexible tape ,36.61,N/A,unknown,slope,forest,at the park
-Jack Doyle,Rocket,google maps phone,-33.93615,151.23406,photo,11.34,flexible tape,47.75,N/A,unknown,flat,forest,at the park
+Jack Doyle,Baby Groot,google maps phone,-33.93131,151.23389,photo,7.9,flexible tape,39.79,N/A,unknown,flat,alone,
 Jake Talakovski,Willow,Google maps (mac),-33.9749002,151.0439564,photo,5.7,Metal Tape Measure,17,unsure,unknown,slope,alone,
 Jake Talakovski,Nanah,google maps (mac),-33.97498027,151.0442796,photo,17.2,Metal Tape Measure,71,unsure,unknown,slope,alone,growing at an angle
-Jake Talakovski,Stemmy,google maps (mac),-33.97479566,151.0445518,photo,11.8,Metal Tape Measure,79,eucalypt,Eucalypt,flat,forest,on small reserve
-Jake Talakovski,Lil Timba ,google maps (mac),-33.97478898,151.045213,photo,12.27,Metal Tape Measure,92,eucalypt,Eucalypt,flat ,forest,on small reserve
-Jake Talakovski,Gummy,google maps (mac),-33.97432966,151.0450762,photo,15.97,Metal Tape Measure,41,eucalypt,Eucalypt,slope,forest,on small reserve
-Jake Talakovski,Big Oakie,google maps (mac),-33.97417952,151.0453444,photo,23.4,Metal Tape Measure,61,eucalypt,Eucalypt,slope,forest,on small reserve
-Jed Cruickshank,Alpha,Google maps (phone),-33.806929,151.230234,photo,2.8,flexible tape,21.4,unknown,unknown,flat,alone,
 Jed Cruickshank,Zeta,Google maps (phone),-33.812308,151.226286,photo,3.4,flexible tape,8.6,unknown,unknown,flat,alone,shrub
-Jed Cruickshank,Gamma,Google maps (phone),-33.805636,151.218471,photo,1.4,flexible tape,7,unknown,unknown,flat,forest,river mouth estuary
-Jed Cruickshank,Delta,Google maps (phone),-33.806447,151.228925,angle,13.7,flexible tape,60.9,Gray gum,Eucalypt,moderate-steep,forest,bushland
-Jed Cruickshank,Beta,Google maps (phone),-33.806256,151.230725,angle,17.6,flexible tape,48.2,Gum,Eucalypt,slope,forest,costal bushland
-Jed Cruickshank,Epsilon,Google maps (phone),-33.806015,151.227109,angle,24.3,flexible tape,86.5,Forest red gum,Eucalypt,moderate-steep,forest,bushland
-Jelena Rudd ,Caravan3,Google Earth Pro (computer),-30.109838,153.202563,photo,5.95,Tape measure,16.25,Banksia ,Not Eucalypt,flat,alone,
-Jelena Rudd ,Caravan4,Google Earth Pro (computer),-30.110164,153.203072,photo,5.95,Tape measure,19.5,Bottlebrush,Not Eucalypt,flat,alone,
-Jelena Rudd ,Caravan1 ,Google Earth Pro (computer),-30.110084,153.201791,photo,6.28,flexible tape,24.35,Unsure ,Not Eucalypt,flat,alone,
-Jelena Rudd ,Caravan5,Google Earth Pro (computer),-30.11439,153.201482,photo,8.75,Tape measure,84.6,Paperbark,Not Eucalypt,flat,alone,
-Jelena Rudd ,Caravan2,Google Earth Pro (computer),-30.109599,153.202407,photo,10.4,Tape measure,28.65,She-oak,Not Eucalypt,flat,alone,
+Jed Cruickshank,Alpha,Google maps (phone),-33.806929,151.230234,photo,2.8,flexible tape,21.4,unknown,unknown,flat,alone,
 Jelena Rudd ,Caravan6,Google Earth Pro (computer),-30.110144,153.202711,photo,13.73,Tape measure,32.6,Pine? ,Not Eucalypt,flat,alone,
-Jemma Lieschke,Margarita,Google maps app,-33.755428,151.284388,photo,6.1,Flexible tape,13,,unknown,flat,alone,Under powerlines
-Jemma Lieschke,Mohito,Google maps app,-33.753676,151.288285,photo,7.3,Flexible tape,40,Palm tree,Not Eucalypt,flat,alone,
-Jemma Lieschke,Daiquiri,Google maps app,-33.752313,151.296276,photo,9.1,Flexible tape,44,Pine tree,Not Eucalypt,flat,alone,
-Jemma Lieschke,Mimosa,Google maps app,-33.751196,151.295382,photo,9.5,Flexible tape,49,Accacia,Not Eucalypt,flat,alone,Shrubs below
+Jelena Rudd ,Caravan5,Google Earth Pro (computer),-30.11439,153.201482,photo,8.75,Tape measure,84.6,Paperbark,Not Eucalypt,flat,alone,
+Jelena Rudd ,Caravan4,Google Earth Pro (computer),-30.110164,153.203072,photo,5.95,Tape measure,19.5,Bottlebrush,Not Eucalypt,flat,alone,
+Jelena Rudd ,Caravan3,Google Earth Pro (computer),-30.109838,153.202563,photo,5.95,Tape measure,16.25,Banksia ,Not Eucalypt,flat,alone,
+Jelena Rudd ,Caravan2,Google Earth Pro (computer),-30.109599,153.202407,photo,10.4,Tape measure,28.65,She-oak,Not Eucalypt,flat,alone,
+Jelena Rudd ,Caravan1 ,Google Earth Pro (computer),-30.110084,153.201791,photo,6.28,flexible tape,24.35,Unsure ,Not Eucalypt,flat,alone,
 Jemma Lieschke,Pina Colada,Google maps app,-33.755364,151.287568,photo,21,Flexible tape,122,Gum tree,Eucalypt,slope,alone,
-Jemma Lieschke,Cosmo,Google maps app,-33.751597,151.294958,photo,8.8,Flexible tape,33,Paperbark,Not Eucalypt,flat,forest,
+Jemma Lieschke,Mohito,Google maps app,-33.753676,151.288285,photo,7.3,Flexible tape,40,Palm tree,Not Eucalypt,flat,alone,
+Jemma Lieschke,Mimosa,Google maps app,-33.751196,151.295382,photo,9.5,Flexible tape,49,Accacia,Not Eucalypt,flat,alone,Shrubs below
+Jemma Lieschke,Margarita,Google maps app,-33.755428,151.284388,photo,6.1,Flexible tape,13,,unknown,flat,alone,Under powerlines
+Jemma Lieschke,Daiquiri,Google maps app,-33.752313,151.296276,photo,9.1,Flexible tape,44,Pine tree,Not Eucalypt,flat,alone,
 Jessica Gu,stu,Google Maps (phone),32.4950123,119.9201121,photo,14.41,flexible tape,51.88,unsure,unknown,flat,alone,
-Jessica Gu,ghi,Google Maps (phone),32.4944634,119.9190297,photo,4.63,flexible tape,16.55,unsure,unknown,flat,small group ,
-Jessica Gu,jkl,Google Maps (phone),32.4945913,119.919145,photo,5.43,flexible tape,15.28,unsure,unknown,flat,small group ,
-Jessica Gu,mno,Google Maps (phone),32.494593,119.9191531,photo,7.34,flexible tape,25.46,unsure,unknown,flat,small group ,
-Jessica Gu,pqr,Google Maps (phone),32.4944903,119.920295,photo,7.79,flexible tape,23.55,unsure,unknown,flat,small group ,
-Jessica Gu,abc,Google Maps (phone),32.4943277,119.9186616,photo,11.84,flexible tape,32.79,unsure,unknown,flat,small group ,
-Jessica Gu,def,Google Maps (phone),32.4940726,119.9184648,photo,13.74,flexible tape,45.52,unsure,unknown,flat,small group ,
 Jessie Gregory,Megatron 3000,Google Maps (phone),-33.5885415,150.9352726,photo,8.31,Tape Measure,79,banksia,Not Eucalypt,slope,alone,
 Jessie Gregory,Asheleigh,Google Maps (phone),-33.5886512,150.9354775,photo,13,Tape Measure,83.5,eucalyptus ,Eucalypt,slope,alone,
-Jessie Gregory,Spencer,Google Maps (phone),-33.5881795,150.9355526,photo,4.43,Tape measure,38,unknown,unknown,flat,small group ,
-Jessie Gregory,Gilbert,Google Maps (phone),-33.5883167,150.9355375,photo,6.63,Tape measure,82,unknown,unknown,flat,small group ,
-Jessie Gregory,Kayleigh,Google Maps (phone),-33.588649,150.9359151,photo,9.75,Tape Measure,110.5,eucalyptus ,Eucalypt,flat,small group ,
 Jessie Gregory ,Beverleigh ,Google Maps (phone),-33.58925825,150.9359305,photo,10.94,Tape Measure,64,Ironbark,Eucalypt,slope,alone,rocky
-Jiawei Liu,The group tree,Google Maps (phone),31.9786383,120.9339304,photo,3.6,Tape Measure,5.8,Banyan tree,Not Eucalypt,flat,alone,
-Jiawei Liu,The pond tree,Google Maps (phone),31.9784357,120.9369325,photo,5,Tape Measure,22.1,Weeping willow tree,Not Eucalypt,flat,alone,
 Jiawei Liu,The white tree,Google Maps (phone),31.978112,120.9343115,photo,6.3,Tape Measure,37.1,hackberry,Not Eucalypt,flat,alone,
+Jiawei Liu,The pond tree,Google Maps (phone),31.9784357,120.9369325,photo,5,Tape Measure,22.1,Weeping willow tree,Not Eucalypt,flat,alone,
+Jiawei Liu,The group tree,Google Maps (phone),31.9786383,120.9339304,photo,3.6,Tape Measure,5.8,Banyan tree,Not Eucalypt,flat,alone,
 Jiawei Liu,Parking tree,Google Maps (phone),31.9786312,120.93409,photo,8.4,Tape Measure,26.5,Lemon eucalyptus,Eucalypt,flat,alone,
-Jiawei Liu,Slender tree,Google Maps (phone),31.9786479,120.9346187,photo,6.6,Tape Measure,17.3,Taxodium ascendens,Not Eucalypt,flat,forest,
-Jiawei Liu,The dark tree,Google Maps (phone),31.978303,120.9345746,photo,6.8,Tape Measure,21.5,Locust tree,Not Eucalypt,flat,forest,
-Jocelyn McGrade,Bort,Google Maps Phone,-33.90257,151.09256,photo,4.29,Flexible Tape,23.55,Tea tree,Not Eucalypt,flat,alone,"Bent trunk, grassy"
-Jocelyn McGrade,Jeremy ,Google Maps Phone,33.90229,151.09344,photo,4.72,Flexible Tape,22.6,Bottlebrush,Not Eucalypt,slope,alone,
 Jocelyn McGrade,Sneed,Google Maps Phone,-33.90042,151.08934,photo,7.14,Flexible Tape,41.06,Casuarina,Not Eucalypt,flat,alone,grassy
-Jocelyn McGrade,Gerald ,Google Maps Phone,-33.90257,151.09232,photo,13.98,Flexible Tape,56.65,Eucalypt,Eucalypt,flat,alone,grassy
 Jocelyn McGrade,Mark,Google Maps Phone,-33.90266,151.09388,photo,21.37,Flexible Tape,53.47,Eucalypt,Eucalypt,flat,alone,grassy
-Jocelyn McGrade,Harold,Google Maps Phone,-33.90077,151.08992,photo,23.62,Flexible Tape,46.79,Casuarina,Not Eucalypt,slope,forest,
-Karina Williams,zazu,google maps phone,-33.92498,151.23616,angle,6.7,flexible tape,8.0,deciduous,Not Eucalypt,flat,alone,in park
-Karina Williams,timon,google maps phone,-33.92427,151.23496,angle,7.4,flexible tape,14.0,eucalypt,Eucalypt,flat,alone,in park
+Jocelyn McGrade,Jeremy ,Google Maps Phone,33.90229,151.09344,photo,4.72,Flexible Tape,22.6,Bottlebrush,Not Eucalypt,slope,alone,
+Jocelyn McGrade,Gerald ,Google Maps Phone,-33.90257,151.09232,photo,13.98,Flexible Tape,56.65,Eucalypt,Eucalypt,flat,alone,grassy
+Jocelyn McGrade,Bort,Google Maps Phone,-33.90257,151.09256,photo,4.29,Flexible Tape,23.55,Tea tree,Not Eucalypt,flat,alone,"Bent trunk, grassy"
+Karina Williams,zazu,google maps phone,-33.92498,151.23616,angle,6.7,flexible tape,8,deciduous,Not Eucalypt,flat,alone,in park
+Karina Williams,timon,google maps phone,-33.92427,151.23496,angle,7.4,flexible tape,14,eucalypt,Eucalypt,flat,alone,in park
 Karina Williams,pumbaa,google maps phone,-33.92383,151.23524,angle,11.4,flexible tape,41.1,arecaceae,Not Eucalypt,slope,alone,in park
-Karina Williams,rafiki,google maps phone,-33.92388,151.23625,angle,22.1,flexible tape,51.2,melaleuca,Not Eucalypt,flat,forest,in park
-Karina Williams,mufasa,google maps phone,-33.92207,151.23630,angle,37.0,flexible tape,121.0,eucalypt,Eucalypt,flat,forest,
-Karina Williams,simba,google maps phone,-33.92220,151.23758,angle,41.7,flexible tape,235.5,ficus,Not Eucalypt,slope,forest,
-Kathryn Jankiewicz,Holt,Google Maps Phone,-33.71713,151.07116,angle,4.11,Tape measure,11.14,Red flowering gum,Eucalypt,slope,alone,
-Kathryn Jankiewicz,Jeffords,Google Maps Phone,-33.7173,151.07148,angle,4.21,Tape measure,9.23,Flowering plum,Not Eucalypt,slope,alone,
 Kathryn Jankiewicz,Santiago,Google Maps Phone,-33.71733,151.07119,angle,5.91,Tape measure,9.71,Searsia lancea,Not Eucalypt,slope,alone,
 Kathryn Jankiewicz,Peralta,Google Maps Phone,-33.71623,151.0717,angle,8.33,Tape measure,31.83,Cedar,Not Eucalypt,flat,alone,
+Kathryn Jankiewicz,Jeffords,Google Maps Phone,-33.7173,151.07148,angle,4.21,Tape measure,9.23,Flowering plum,Not Eucalypt,slope,alone,
+Kathryn Jankiewicz,Holt,Google Maps Phone,-33.71713,151.07116,angle,4.11,Tape measure,11.14,Red flowering gum,Eucalypt,slope,alone,
 Kathryn Jankiewicz,Diaz,Google Maps Phone,-33.71721,151.07103,angle,9.66,Tape measure,30.08,Flowering plum,Eucalypt,flat,alone,
 Kathryn Jankiewicz,Boyle,Google Maps Phone,-33.71727,151.07153,angle,13.66,Tape measure,50.29,Acacia,Not Eucalypt,slope,alone,
 Katie Virgona,Squidward,Google Maps phone app,-33.7529114,151.2151695,photo,5.87,flexible tape,38.2,Eucalyptus,Eucalypt,flat,alone,sat on side of road
+Katie Virgona,Sandy Cheeks,Google Maps phone app,-33.7534662,151.2122982,photo,13.13,flexible tape,70.51,Eucalyptus,Eucalypt,moderate-steep,alone,sat on side of road
 Katie Virgona,Plankton,Google Maps phone app,-33.7535097,151.2128974,photo,5.91,flexible tape,19.1,Eucalyptus,Eucalypt,moderate-steep,alone,sat on side of road
 Katie Virgona,Patrick Star,Google Maps phone app,-33.7530302,151.215415,photo,6.15,flexible tape,40.65,Sweet gum,Not Eucalypt,flat,alone,"sat on edge of road, deciduous"
 Katie Virgona,Mr Krabs,Google Maps phone app,-33.7529591,151.2140447,photo,10.27,flexible tape,68.44,Field maple,Not Eucalypt,slope,alone,sat on side of road
-Katie Virgona,Sandy Cheeks,Google Maps phone app,-33.7534662,151.2122982,photo,13.13,flexible tape,70.51,Eucalyptus,Eucalypt,moderate-steep,alone,sat on side of road
-Katie Virgona,Spongebob,Google Maps phone app,-33.7530862,151.2156614,photo,,flexible tape,35.01,Majesty palm,Not Eucalypt,flat,alone,sat on property next to pool
+Kevin Zhang,Vibe,Google maps phone,-33.7796314,151.0277425,angle,49.11,Flexible tape,68.75,,unknown,flat,alone,
 Kevin Zhang,Tree,Google maps phone,-33.7807388,151.025877,angle,11.29,Flexible tape,10.19,,unknown,flat,alone,
 Kevin Zhang,Sicks,Google maps phone,-33.7787109,151.0287178,angle,11.86,Flexible tape,16.23,,unknown,flat,alone,
 Kevin Zhang,Pho ,Google maps phone,-33.7799845,151.0258123,angle,29.84,Flexible tape,68.44,,unknown,slope,alone,
-Kevin Zhang,Vibe,Google maps phone,-33.7796314,151.0277425,angle,49.11,Flexible tape,68.75,,unknown,flat,alone,
-Kevin Zhang,Juan,Google maps phone,-33.7819399,151.0253077,angle,9.38,Flexible tape,6.37,,unknown,slope,forest,
-Kevin Zhang,Toe,Google maps phone,-33.7814678,151.0256829,angle,34.16,Flexible tape,25.15,,unknown,slope,forest,
-Kimberley Goodwin,Gamora,Google Maps Phone,-34.4409796,150.8931154,photo,2.653,Flexible Tape,84.45,Pygmy Palm,Not Eucalypt,flat,forest,
-Kimberley Goodwin,Star Lord,Google Maps Phone,-34.441535,150.893305,photo,4.11,Flexible Tape,12.73,Radiata Pine,Not Eucalypt,flat,forest,
-Kimberley Goodwin,Rocket Racoon,Google Maps Phone,-34.441574,150.890911,photo,5.6,Flexible Tape,16.55,Duboisia myoporoides,Not Eucalypt,flat,forest,
-Kimberley Goodwin,Thanos,Google Maps Phone,-34.441058,150.890912,photo,7.3,Flexible Tape,40.58,Eucalyptus,Eucalypt,flat,forest,
-Kimberley Goodwin,Groot ,Google Maps Phone,-34.441533,150.890766,photo,8.44,Flexible Tape,31.29,Iron Bark,Eucalypt,flat,forest,
-Kimberley Goodwin,Yondu,Google Maps Phone,-34.441522,150.890747,photo,12.47,Flexible Tape,59.21,Eucalyptus,Eucalypt,flat,forest,
-Larissa Liang,Linus,Google Maps (phone),-33.9479052,151.0289247,angle,9.1,flexible tape measure,26.1,Unsure,unknown,flat,alone,
-Larissa Liang,Abigail,Google Maps (phone),-33.9467454,151.0282196,angle,20.4,flexible tape measure,54.7,Unsure,unknown,flat,alone,
+Larissa Liang,Sebastian,Google Maps (phone),-33.9474435,151.0288998,angle,29.3,flexible tape measure,63,Unsure,unknown,flat,alone,
 Larissa Liang,Sam,Google Maps (phone),-33.9474989,151.0277525,angle,24.5,flexible tape measure,59.2,Unsure,unknown,flat,alone,
+Larissa Liang,Linus,Google Maps (phone),-33.9479052,151.0289247,angle,9.1,flexible tape measure,26.1,Unsure,unknown,flat,alone,
 Larissa Liang,Evelyn,Google Maps (phone),-33.9515533,151.0313209,angle,25.3,flexible tape measure,62.4,Unsure,unknown,flat,alone,
 Larissa Liang,Bobette,Google Maps (phone),-33.9470486,151.0285766,angle,27.9,flexible tape measure,83.9,Unsure,unknown,flat,alone,
-Larissa Liang,Sebastian,Google Maps (phone),-33.9474435,151.0288998,angle,29.3,flexible tape measure,63,Unsure,unknown,flat,alone,
-Laura Flood,King Harold,Google Maps (Phone),-33.956245,151.062325,photo,3.46,flexible tape measure,6.3661,Grevillea,Not Eucalypt,flat,alone,
+Larissa Liang,Abigail,Google Maps (phone),-33.9467454,151.0282196,angle,20.4,flexible tape measure,54.7,Unsure,unknown,flat,alone,
 Laura Flood,Shrek,Google Maps (Phone),-33.956469,151.062408,photo,5.9108,flexible tape measure,13.6873,Palm Tree,Not Eucalypt,flat,alone,
-Laura Flood,Pinocchio,Google Maps (Phone),-33.956179,151.062611,photo,10.38,flexible tape measure,83.3971,Gumtree,Not Eucalypt,slope,alone,
 Laura Flood,Princess Fiona,Google Maps (Phone),-33.956518,151.062329,photo,12.5818,flexible tape measure,63.6619,Oak Tree,Not Eucalypt,slope,alone,
+Laura Flood,Pinocchio,Google Maps (Phone),-33.956179,151.062611,photo,10.38,flexible tape measure,83.3971,Gumtree,Not Eucalypt,slope,alone,
 Laura Flood,Lord Farquaad,Google Maps (Phone),-33.956522,151.062419,photo,13.84,flexible tape measure,49.338,Paperbark,Not Eucalypt,flat,alone,
+Laura Flood,King Harold,Google Maps (Phone),-33.956245,151.062325,photo,3.46,flexible tape measure,6.3661,Grevillea,Not Eucalypt,flat,alone,
 Laura Flood,Donkey,Google Maps (Phone),-33.956452,151.062456,photo,14.4166,flexible tape measure,69.7098,unsure,unknown,flat,alone,
-Lottie Barry,fred v5,Google Maps (phone),-33.851639,151.139916,photo,9.44,flexible tape,29.6,pine?,Not Eucalypt,flat,alone,
 Lottie Barry,jasmine,Google Maps (phone),-33.85165,151.140481,photo,11.11,flexible tape,48.06,unsure,unknown,flat,alone,
+Lottie Barry,fred v5,Google Maps (phone),-33.851639,151.139916,photo,9.44,flexible tape,29.6,pine?,Not Eucalypt,flat,alone,
 Lottie Barry,fred v4,Google Maps (phone),-33.852132,151.14029,photo,13.69,flexible tape,38.2,unsure,unknown,flat,alone,
 Lottie Barry,fred v3,Google Maps (phone),-33.852134,151.138874,photo,15.01,flexible tape,53.48,Gum,Eucalypt,flat,alone,
 Lottie Barry,fred (original),Google Maps (phone),-33.851091,151.147837,photo,22.66,flexible tape,57.3,Gum,Eucalypt,flat,alone,
-Lottie Barry,fred v2,Google Maps (phone),-33.852778,151.143473,photo,14.53,flexible tape,59.84,unsure,unknown,flat,small group ,
-Louise Personeni,plant.4,Google Maps Phone,-33.988361,151.118964,angle,15.55,Flexible tape,31.83,Eucalyptus,Eucalypt,flat,alone,"Carss Park, Bayside, Soccer feild"
-Louise Personeni,plant.2,Google Maps Phone,-33.98749,151.119002,angle,21.05,Flexible tape,54.75,Pine ,Not Eucalypt,slope,alone,"Carss Park, Bayside, Soccer feild, Slightly elevated"
 Louise Personeni,plant.5,Google Maps Phone,-33.988432,151.119151,angle,22.05,Flexible tape,57.29,- ,unknown,slope,alone,"Carss Park, Bayside, Soccer feild, slightly elevated"
-Louise Personeni,plant.1,Google Maps Phone,-33.987309,151.119079,angle,25.25,Flexible tape,57.29,Eucalyptus,Eucalypt,slope,alone,"Carss Park, Bayside, Soccer feild, Slightly elevated"
+Louise Personeni,plant.4,Google Maps Phone,-33.988361,151.118964,angle,15.55,Flexible tape,31.83,Eucalyptus,Eucalypt,flat,alone,"Carss Park, Bayside, Soccer feild"
 Louise Personeni,plant.3.,Google Maps Phone,-33.987971,151.118902,angle,27.75,Flexible tape,84.03,Eucalyptus,Eucalypt,flat,alone,"Carss Park, Bayside, Soccer feild"
-Louise Personeni,plant.6,Google Maps Phone,-33.988659,151.119152,angle,,,,,unknown,unknown,unknown,
+Louise Personeni,plant.2,Google Maps Phone,-33.98749,151.119002,angle,21.05,Flexible tape,54.75,Pine ,Not Eucalypt,slope,alone,"Carss Park, Bayside, Soccer feild, Slightly elevated"
+Louise Personeni,plant.1,Google Maps Phone,-33.987309,151.119079,angle,25.25,Flexible tape,57.29,Eucalyptus,Eucalypt,slope,alone,"Carss Park, Bayside, Soccer feild, Slightly elevated"
+Maddie Wyndham,Smelly,Google Maps (phone),-33.905586,151.168603,photo,11.2,Tape Measure,38.2,Gum Tree,Eucalypt,flat,alone,
+Maddie Wyndham,Skinny,Google Maps (phone),-33.903421,151.168675,photo,8.2,Tape Measure,49.3,?,unknown,slope,alone,
 Maddie Wyndham,Little One,Google Maps (phone),-33.903573,151.169776,photo,2.1,Tape Measure,8,?,unknown,flat,alone,
 Maddie Wyndham,Bob,Google Maps (phone),-33.902143,151.168552,photo,5.8,Tape Measure,19.1,?,unknown,flat,alone,
-Maddie Wyndham,Skinny,Google Maps (phone),-33.903421,151.168675,photo,8.2,Tape Measure,49.3,?,unknown,slope,alone,
-Maddie Wyndham,Smelly,Google Maps (phone),-33.905586,151.168603,photo,11.2,Tape Measure,38.2,Gum Tree,Eucalypt,flat,alone,
-Maddie Wyndham,Stumpy,Google Maps (phone),-33.903685,151.168795,photo,9.6,Tape Measure,68.4,?,unknown,flat,forest,Very Open forest
-Maddie Wyndham,Spike,Google Maps (phone),-33.904834,151.16844,photo,14.9,Tape Measure,60.5,Some sort of pine,Not Eucalypt,flat,forest,Very Open forest
 Mia Mather,Sweeny,google maps iphone,-33.908456,151.1958352,photo,8.4,"string,then measured by tape measure ",48.7,Swamp Mahogany,Eucalypt,flat,alone,in a park
 Mia Mather,Steven,google maps iphone,-33.0985918,151.1964397,photo,10.75,"string,then measured by tape measure ",47.12,a Stringy-Bark of sorts ,Eucalypt,flat,alone,biggest trunk in a park
+Mia Mather,Seymour,google maps iphone,-33.9086486,151.1965205,photo,17.15,"string,then measured by tape measure ",76.39,Sycamore ,Not Eucalypt,flat ,alone,"in a park, barky ground "
 Mia Mather,Penelope,google maps iphone,-33.9083764,151.1961332,photo,13.47,"string,then measured by tape measure ",86.58,Paper Bark,Not Eucalypt,flat,alone,in a park  - next to road
 Mia Mather,Norman,google maps iphone,-33.90837642,151.1961332,photo,13.5,"string,then measured by tape measure ",57.3,Norefolk Pine,Not Eucalypt,flat ,alone,in a park
-Mia Mather,Seymour,google maps iphone,-33.9086486,151.1965205,photo,17.15,"string,then measured by tape measure ",76.39,Sycamore ,Not Eucalypt,flat ,alone,"in a park, barky ground "
-Mia Mather,Sheryl,google maps iphone,-33.9086313,151.1962321,photo,18.94,"string,then measured by tape measure ",36.83,She-oak,Not Eucalypt,flat,small group ,"in a small group of trees in a park,  barky ground "
-Monique Lush,Barry the bottle brush,Google Maps,-33.85786,151.135401,angle ,6.9,Measuring Tape,57.6,Bottle Brush ,Not Eucalypt,flat ,alone,Beside street  (branched)
 Monique Lush,Eugine the Euc,Google Maps,-33.8532283,151.1370331,angle ,15.2,Measuring Tape,119.3,Eucalyptus ,Eucalypt,flat ,alone,Surrounding an oval  (branched)
-Monique Lush,Einstiein the Pine ,Google Maps,-33.8515897,151.1399081,angle ,10.6,Measuring Tape,31.8,Pine ,Not Eucalypt,flat ,small group ,Surrounding an oval
-Monique Lush,Duke the Euc,Google Maps,-33.8524239,151.1370463,angle ,12.3,Measuring Tape,43,Eucalyptus ,Eucalypt,flat ,small group ,Surrounding an oval
-Monique Lush,Luke the Euc ,Google Maps,-33.8534174,151.1372349,angle ,22.8,Measuring Tape,61.4,Eucalyptus ,Eucalypt,flat ,small group ,Surrounding an oval
+Monique Lush,Barry the bottle brush,Google Maps,-33.85786,151.135401,angle ,6.9,Measuring Tape,57.6,Bottle Brush ,Not Eucalypt,flat ,alone,Beside street  (branched)
 Monique Lush ,Pam the palm ,Google Maps,-33.8576829,151.1359525,angle ,3.8,Measuring Tape,6.4,Palm ,Not Eucalypt,flat ,alone,In back yard
 Naina Bhonagiri,The Elenarose Tree,Google Maps (browser),-33.900052,151.241359,angle,5.45,Flexible Tape,0.102,holm oak,Not Eucalypt,flat,alone,planted in 2013 
-Naina Bhonagiri,Large Bonsai,Google Maps Phone,-33.89059,151.2390207,angle,6.45,Flexible Tape,0.286,mayhaps a fig?,Not Eucalypt,slope,alone,"not near water, lichen on tree"
 Naina Bhonagiri,Lord Lichen,Google Maps (browser),-33.899651,151.240121,angle,16.55,Flexible Tape,1.37,some kind of fig,Not Eucalypt,slope,alone,near pond
-Naina Bhonagiri,Needle Dude,Google Maps Phone,-33.89939,151.2382261,angle,17.35,Flexible Tape,0.468,pine,Not Eucalypt,flat,forest,sparse forest ~75m away from pond
-Naina Bhonagiri,Tomathy,Google Maps Phone,-33.8970713,151.23.68877,angle,18.85,Flexible Tape,0.407,pine,Not Eucalypt,slope,forest,
-Naina Bhonagiri,Ian G Burgess,Google Maps Phone,-33.9017814,151.2394888,angle,12.75,Flexible Tape,0.363,Liquidambar Styraciflua,Not Eucalypt,flat,small group ,near lake
-Natalie Casha,Chicken nuggets,Google map phone,-33.7570471,150.7027157,photo,5.87,retractable metal tape,46.15,N/A,unknown,slope,alone,Planted
-Natalie Casha,Large fries,Google map phone,-33.7567036,150.7028549,photo,6.256,retractable metal tape,29.92,N/A,unknown,flat,alone,Planted
-Natalie Casha,McFlurry,Google map phone,-33.6762669,150.6812705,photo,6.32,retractable metal tape,55.08,N/A,unknown,flat,alone,Natural
+Naina Bhonagiri,Large Bonsai,Google Maps Phone,-33.89059,151.2390207,angle,6.45,Flexible Tape,0.286,mayhaps a fig?,Not Eucalypt,slope,alone,"not near water, lichen on tree"
 Natalie Casha,Snack wrap,Google map phone,-33.7570479,150.7029518,photo,6.41,retractable metal tape,37.88,N/A,unknown,flat,alone,Planted
-Natalie Casha,Double Quarter pounder,Google map phone,-33.6758425,150.6816802,photo,6.56,retractable metal tape,23.24,Palm Tree,Not Eucalypt,flat,alone,Planted
+Natalie Casha,McFlurry,Google map phone,-33.6762669,150.6812705,photo,6.32,retractable metal tape,55.08,N/A,unknown,flat,alone,Natural
+Natalie Casha,Large fries,Google map phone,-33.7567036,150.7028549,photo,6.256,retractable metal tape,29.92,N/A,unknown,flat,alone,Planted
 Natalie Casha,Happy meal,Google map phone,-33.7569849,150.7030044,photo,8.625,retractable metal tape,55.39,N/A,unknown,slope,alone,Planted
+Natalie Casha,Double Quarter pounder,Google map phone,-33.6758425,150.6816802,photo,6.56,retractable metal tape,23.24,Palm Tree,Not Eucalypt,flat,alone,Planted
+Natalie Casha,Chicken nuggets,Google map phone,-33.7570471,150.7027157,photo,5.87,retractable metal tape,46.15,N/A,unknown,slope,alone,Planted
 Natasha Brobyn,Onion,Google Maps Phone,-33.012818,151.715074,angle,6.82,flexible tape,19.48,Carrotwood,Not Eucalypt,flat,alone,in a park
-Natasha Brobyn,Custard,Google Maps Phone,-33.012908,151.715217,angle,7.71,flexible tape,17.09,Carrotwood,Not Eucalypt,flat,alone,in a park
 Natasha Brobyn,Kidney,Google Maps Phone,-33.013341,151.715015,angle,18.31,flexible tape,142.34,Eucalypt,Eucalypt,flat,alone,Ants nest at the base of the tree
+Natasha Brobyn,Custard,Google Maps Phone,-33.012908,151.715217,angle,7.71,flexible tape,17.09,Carrotwood,Not Eucalypt,flat,alone,in a park
 Natasha Brobyn,Artichoke,Google Maps Phone,-33.012987,151.715033,angle,18.88,flexible tape,134.7,She Oak,Not Eucalypt,flat,alone,in a park
-Natasha Brobyn,Beef Boy,Google Maps Phone,-33.013157,151.714853,angle,11.6,flexible tape,25.78,Paper Bark,Not Eucalypt,flat,forest,Right next to another small tree about the same height
-Natasha Brobyn,Terrance,Google Maps Phone,-33.013309,151.716086,angle,15.16,flexible tape,38.197,She Oak,Not Eucalypt,flat,forest,Growing very close to two other trees in a park
-Nyoka I-R,Gandhi,Google maps (browser),-33.919065,151.229459,photo,7.15,Metal Tape Measure,19.41690306,N/A,unknown,flat,alone,skinny/tall kinda like grass tree
-Nyoka I-R,Gerald,Google maps (browser),-33.919047,151.228997,photo,7.833333333,Metal Tape Measure,34.37746771,N/A,unknown,flat,alone,sort of like a fig tree
-Nyoka I-R,Gary,Google maps (browser),-33.918693,151.22963,photo,8.461538462,Metal Tape Measure,33.42253805,N/A,unknown,flat,alone,no leaves
-Nyoka I-R,Gertrude,Google maps (browser),-33.919203,151.22833,photo,9.333333333,Metal Tape Measure,23.55493158,Paperbark,Not Eucalypt,flat,alone,
-Nyoka I-R,Gavin,Google maps (browser),-33.919075,151.228689,photo,10.84615385,Metal Tape Measure,37.56056657,Paperbark,Not Eucalypt,flat,alone,
 Nyoka I-R,Gregory,Google maps (browser),-33.918675,151.229602,photo,16.625,Metal Tape Measure,28.01126998,Eucalyptus,Eucalypt,flat,alone,
+Nyoka I-R,Gertrude,Google maps (browser),-33.919203,151.22833,photo,9.333333333,Metal Tape Measure,23.55493158,Paperbark,Not Eucalypt,flat,alone,
+Nyoka I-R,Gerald,Google maps (browser),-33.919047,151.228997,photo,7.833333333,Metal Tape Measure,34.37746771,N/A,unknown,flat,alone,sort of like a fig tree
+Nyoka I-R,Gavin,Google maps (browser),-33.919075,151.228689,photo,10.84615385,Metal Tape Measure,37.56056657,Paperbark,Not Eucalypt,flat,alone,
+Nyoka I-R,Gary,Google maps (browser),-33.918693,151.22963,photo,8.461538462,Metal Tape Measure,33.42253805,N/A,unknown,flat,alone,no leaves
+Nyoka I-R,Gandhi,Google maps (browser),-33.919065,151.229459,photo,7.15,Metal Tape Measure,19.41690306,N/A,unknown,flat,alone,skinny/tall kinda like grass tree
 Oliver Macdonald,Paul,Google Maps,-34.060736,150.701069,photo,15.9,Flexible Tape,83.7,Eucalyptus,Eucalypt,flat,alone,
-Olivia Hinteregger,Hippopotamus,Google maps browser,-33.815273,151.155831,photo,4.1,Flexible tape,14.6,Bottlebrush,Not Eucalypt,flat,alone,
-Olivia Hinteregger,Spider,Google maps browser,-33.814894,151.157208,photo,4.8,Flexible tape,9.9,Grevillea,Not Eucalypt,slope,alone,
-Olivia Hinteregger,Giraffe,Google maps browser,-33.814477,151.152076,photo,5.6,Flexible tape,19.4,Eucalypt,Eucalypt,flat,alone,
-Olivia Hinteregger,Panda,Google maps browser,-33.813635,151.152291,photo,5.6,Flexible tape,16.4,Eucalypt,Eucalypt,slope,alone,
-Olivia Hinteregger,Bear,Google maps browser,-33.813954,151.154713,photo,8.7,Flexible tape,33.4,Eucalypt,Eucalypt,slope,alone,
 Olivia Hinteregger,Walrus,Google maps browser,-33.815035,151.15684,photo,12.5,Flexible tape,13.7,Eucalypt,Eucalypt,flat,alone,
-Phoebe Peng,nolef,Google Maps (phone),-33.791111,151.0775,photo,8.27,flexible tape,29.92,?,unknown,flat,alone,
-Phoebe Peng,string_cheese,Google Maps (phone),-33.78766,151.079631,photo,9.35,flexible tape,27.06,stringy bark,Eucalypt,flat,alone,
+Olivia Hinteregger,Spider,Google maps browser,-33.814894,151.157208,photo,4.8,Flexible tape,9.9,Grevillea,Not Eucalypt,slope,alone,
+Olivia Hinteregger,Panda,Google maps browser,-33.813635,151.152291,photo,5.6,Flexible tape,16.4,Eucalypt,Eucalypt,slope,alone,
+Olivia Hinteregger,Hippopotamus,Google maps browser,-33.815273,151.155831,photo,4.1,Flexible tape,14.6,Bottlebrush,Not Eucalypt,flat,alone,
+Olivia Hinteregger,Giraffe,Google maps browser,-33.814477,151.152076,photo,5.6,Flexible tape,19.4,Eucalypt,Eucalypt,flat,alone,
+Olivia Hinteregger,Bear,Google maps browser,-33.813954,151.154713,photo,8.7,Flexible tape,33.4,Eucalypt,Eucalypt,slope,alone,
 Phoebe Peng,umbrella,Google Maps (phone),-33.790833,151.077778,photo,12.75,flexible tape,44.56,stringy bark?,Eucalypt,moderate-steep,alone,
+Phoebe Peng,string_cheese,Google Maps (phone),-33.78766,151.079631,photo,9.35,flexible tape,27.06,stringy bark,Eucalypt,flat,alone,
+Phoebe Peng,nolef,Google Maps (phone),-33.791111,151.0775,photo,8.27,flexible tape,29.92,?,unknown,flat,alone,
 Phoebe Peng,bahn_mi,Google Maps (phone),-33.788885,151.081614,photo,21.25,flexible tape,100.59,eucalypt,Eucalypt,flat,alone,
-Phoebe Peng,arabella,Google Maps (phone),-33.791389,151.078611,photo,11.5,flexible tape,20.69,honey locust,Not Eucalypt,flat,forest,
-Phoebe Peng,detachable_limbs,Google Maps (phone),-33.791111,151.078056,photo,19.21,flexible tape,74.8,eucalypt,Eucalypt,slope,forest,
-Pui Lam Hung,samll tree 3,Google maps (browser),22.317129,114.235496,photo,9.47,flexible tape,21.5,Combretaceae,Not Eucalypt,slope,alone,
 Pui Lam Hung,samll tree 5,Google maps (browser),22.31738,114.235571,photo,17.37,flexible tape,27.23,Araucariaceae,Not Eucalypt,slope,alone,
 Pui Lam Hung,samll tree 4,Google maps (browser),22.317288,114.235547,photo,17.64,flexible tape,29.86,Araucariaceae,Not Eucalypt,slope,alone,
+Pui Lam Hung,samll tree 3,Google maps (browser),22.317129,114.235496,photo,9.47,flexible tape,21.5,Combretaceae,Not Eucalypt,slope,alone,
 Pui Lam Hung,samll tree 2,Google maps (browser),22.317194,114.235517,photo,18.53,flexible tape,34.31,Mytaceae,unknown,slope,alone,
 Pui Lam Hung,samll tree 1,Google maps (browser),22.317246,114.235522,photo,19.65,flexible tape,35.56,Mytaceae,unknown,slope,alone,
-Pui Lam Hung,samll tree 1,Google maps (browser),22.316703,114.236105,photo,10.65,flexible tape,32.07,Euphorbiaceae,Not Eucalypt,slope,unknown,
-Quincy (Forest) Tut,Driveway,Google Maps browser ,-34.441462,150.839213,photo,10.0727619,flexible tape measure,25.91,unknown,unknown,flat,alone ,
-Quincy (Forest) Tut,Henry,Google Maps browser ,-34.444369,150.837766,photo,17.88466667,flexible tape measure,30.78,unknown,unknown,flat,alone ,
-Quincy (Forest) Tut,NoThrough,Google Maps browser ,-34.440358,150.836818,photo,23.50311111,flexible tape measure,56.12,unknown,unknown,slope,alone ,
-Quincy (Forest) Tut,OrangeCar,Google Maps browser ,-34.441568,150.838291,photo,18.01333333,flexible tape measure,49.97,unknown,unknown,slope,forest,
-Quincy (Forest) Tut,Grate,Google Maps browser ,-34.441756,150.834846,photo,18.01333333,flexible tape measure,41.41,unknown,unknown,flat,forest,
-Quincy (Forest) Tut,KeepLeft,Google Maps browser ,-34.44037,150.83715,photo,20.14218182,flexible tape measure,34.12,unknown,unknown,flat,forest,
 Reem Hamed,Tiny Taz,google earth pro ,-33.839809,151.010456,photo,1.27,flexible Tape,9.48,n/a,unknown,flat,alone,
+Reem Hamed,Massive Boi,google earth pro ,-33.838216,151.00591,photo,8.96,flexible Tape,49.33,Fig Tree,Not Eucalypt,flat,alone,
 Reem Hamed,Barack O Llama 2.0,google earth pro ,-33.839581,151.008744,photo,2.99,flexible Tape,24.36,n/a,unknown,flat,alone,is the tree next to this one 
 Reem Hamed,Barack O Llama,google earth pro ,-33.839585,151.0088,photo,3.86,Flexible Tape,26.06,n/a,unknown,flat,alone,has a tree next to it
-Reem Hamed,Massive Boi,google earth pro ,-33.838216,151.00591,photo,8.96,flexible Tape,49.33,Fig Tree,Not Eucalypt,flat,alone,
-Reem Hamed,Round Ronald,google earth pro ,-33.839325,151.004863,photo,5.32,flexible Tape,30.5,n/a,unknown,flat,forest,At the park
 Richard Gough,Wicky,Google Maps browser,-34.71007,150.64719,photo,10.18,metal tape,57.3,Acacia binervata,Not Eucalypt,slope,alone,"Two-veined Hickory - Fabaceae, undulating rainforest clearing"
 Richard Gough,M,Google Maps browser,-34.712087,150.647958,photo,13.11,metal tape,79.6,Syzygium paniculatum,Not Eucalypt,flat,alone,"Magenta Lilly Pilly - Myrtaceae,  rainforest clearing"
-Richard Gough,Hot Plates,Google Maps browser,-34.71366,150.642208,photo,5.04,metal tape,7.96,Dendrocnide excelsa,Not Eucalypt,flat,forest,"Giant Stinging Tree - Urticaceae, mid creek"
-Richard Gough,Sassy,Google Maps browser,-34.710137,150.641924,photo,7.39,metal tape,10.5,Doryphora sassafras,Not Eucalypt,flat,forest,"Sassafras - Monimiaceae, creek edge"
-Richard Gough,Cassy,Google Maps browser,-34.710577,150.646137,photo,26.72,metal tape,82.8,Casuarina cunninghamiana,Not Eucalypt,flat,forest,"River Oak - Casuarinaceae, mid creek"
-Richard Gough,Guwal,Google Maps browser,-34.710461,150.643295,photo,27.56,metal tape,219.6,Toona ciliata,Not Eucalypt,slope,forest,"Red Cedar - Meliaceae - recent lost branch 31.7m long, 41.4cm diameter near break - was 30 degree angle to trunk, so canopy radius that side was around 30m"
+Riley Jackson,Stephen,Google maps (browser),-33.918918,151.229012,photo,6.968888889,Metal Tape Measure,23.87324146,Paperbark,Not Eucalypt,flat,alone,
+Riley Jackson,Henrietta,Google maps (browser),-33.918944,151.22999,photo,6.566,Metal Tape Measure,25.14648101,,unknown,flat,alone,
+Riley Jackson,Estelle,Google maps (browser),-33.918694,151.229617,photo,7.62222222,Metal Tape Measure,33.74084794,,unknown,flat,alone,
 Riley Jackson,Chip,Google maps (browser),-33.919237,151.227949,photo,4.41,Metal Tape Measure,9.867606472,,unknown,flat,alone,
 Riley Jackson,Charles,Google maps (browser),-33.918644,151.229567,photo,5.978,Metal Tape Measure,14.96056465,,unknown,flat,alone,
-Riley Jackson,Henrietta,Google maps (browser),-33.918944,151.22999,photo,6.566,Metal Tape Measure,25.14648101,,unknown,flat,alone,
-Riley Jackson,Stephen,Google maps (browser),-33.918918,151.229012,photo,6.968888889,Metal Tape Measure,23.87324146,Paperbark,Not Eucalypt,flat,alone,
-Riley Jackson,Estelle,Google maps (browser),-33.918694,151.229617,photo,7.62222222,Metal Tape Measure,33.74084794,,unknown,flat,alone,
 Riley Jackson,Bartholomew,Google maps (browser),-33.918942,151.229747,photo,10.4533333,Metal Tape Measure,56,Paperbark,Not Eucalypt,flat,alone,
 Rory O'Connell,Medusa,Google Maps Phone,-33.79916,151.15202,angle,8.26,Tape Measure,41.38,Unknown,unknown,flat,alone,By River
-Rory O'Connell,Elton John,Google Maps Phone,-33.80058,151.15497,angle,5.81,Tape Measure,11.78,She Oak,Not Eucalypt,flat,forest,By River
-Rory O'Connell,Birds Nest,Google Maps Phone,-33.80052,151.15595,angle,7.56,Tape Measure,25.78,Unkown,unknown,slope,forest,
-Rory O'Connell,Pauline,Google Maps Phone,-33.79996,151.15086,angle,7.86,Tape Measure,50.29,Palm,Not Eucalypt,flat,forest,
-Rory O'Connell,Yao Ming,Google Maps Phone,-33.80068,151.15525,angle,17.21,Tape Measure,26.74,Casuarina,Not Eucalypt,flat,forest,
-Rory O'Connell,Shaq,Google Maps Phone,-33.79966,151.15267,angle,24.69,Tape Measure,59.21,Eucalypt,Eucalypt,flat,forest,Had Fire Damage
-Rui Wang,Guksu,Google Map App,-33.808018,151.050495,angle ,8.26,Flexible Tape,38.2,Oak,Not Eucalypt,flat,alone,Planted
 Rui Wang,La Mian,Google Map App,-33.808142,151.050215,angle ,10.45,Flexible Tape,32.34,Oak,Not Eucalypt,moderate-steep,alone,Planted
-Rui Wang,Pho,Google Map App,-33.807692,151.049241,angle ,12.68,Flexible Tape,39.47,Eucalyptus,Eucalypt,slope,forest,Natural
-Rui Wang,Mi Goreng,Google Map App,-33.807364,151.051009,angle ,17.07,Flexible Tape,46.15,Eucalyptus,Eucalypt,slope,forest,Natural
-Rui Wang,Udon,Google Map App,-33.808305,151.050273,angle ,21.85,Flexible Tape,57.3,Eucalyptus,Eucalypt,flat,forest,Natural
-Rui Wang,Spaghetti,Google Map App,-33.803387,151.049457,angle ,24.4,Flexible Tape,64.71,Eucalyptus,Eucalypt,moderate-steep,forest,Natural
-S Gunasekera,Pat Malone,Google maps phone,-33.907230,151.183030,photo,9.23,metal tape measure,14.2,Eucalyptus,Eucalypt,flat,alone,
-S Gunasekera,Van Vanderzande #7,Google maps phone,-33.908269,151.183257,photo,10.8,metal tape measure,18.8,Eucalyptus,Eucalypt,slope,forest,
-S Gunasekera,Consigliori,Google maps phone,-33.908957,151.186340,photo,11.1,metal tape measure,22.6,Eucalyptus,Eucalypt,slope,forest,
-S Gunasekera,Polly Jean,Google maps phone,-33.914438,151.184321,photo,15.8,metal tape measure,29.9,Sheoak,Not Eucalypt,flat,forest,Hey that's one big queen
-S Gunasekera,Dave Drumsticks,Google maps phone,-33.910730,151.182461,photo,26.1,metal tape measure,42.3,Eucalyptus,Eucalypt,flat,forest,
-S Gunasekera,Dink's Tree,Google maps phone,-33.909466,151.186410,photo,29.7,metal tape measure,38.8,Eucalyptus,Eucalypt,moderate-steep,forest,
+Rui Wang,Guksu,Google Map App,-33.808018,151.050495,angle ,8.26,Flexible Tape,38.2,Oak,Not Eucalypt,flat,alone,Planted
+S Gunasekera,Pat Malone,Google maps phone,-33.90723,151.18303,photo,9.23,metal tape measure,14.2,Eucalyptus,Eucalypt,flat,alone,
 Shanella Madanayake,Regieleki,Google Maps (Phone App),-33.715894,150.983504,photo,14.78,Flexible Tape,54.05,Eucalypt,Eucalypt,flat,alone,Fred Caterson Reserve 
-Shanella Madanayake,Registeel,Google Maps (Phone App),-33.716372,150.982718,photo,7.62,Flexible Tape,13.46,Not Sure,unknown,slope,forest,Fred Caterson Reserve 
-Shanella Madanayake,Regigigas,Google Maps (Phone App),-33.715775,150.981128,photo,11.38,Flexible Tape,19.19,Casuarina,Not Eucalypt,flat,forest,On the edge of a small creek (Elizabeth Chaffey Reserve)
-Shanella Madanayake,Regirock,Google Maps (Phone App),-33.716097,150.982704,photo,11.51,Flexible Tape,21.49,Eucalypt,Eucalypt,slope,forest,Fred Caterson Reserve 
-Shanella Madanayake,Regidrago,Google Maps (Phone App),-33.716656,150.983582,photo,13.45,Flexible Tape,35.11,Eucalypt,Eucalypt,slope,forest,Fred Caterson Reserve 
-Shanella Madanayake,Regice,Google Maps (Phone App),-33.716519,150.982645,photo,16,Flexible Tape,48.6,Eucalypt,Eucalypt,flat,forest,Fred Caterson Reserve 
-shizhen lyu,lianhua 3,Latitude and longitude positioning (phone app),22.555228,114.067931,photo,3.3,flexiable tape measure,20.7,,unknown,flat,alone,
-shizhen lyu,lianhua 1,Latitude and longitude positioning (phone app),22.555548,114.068363,photo,4.3,flexiable tape measure,29.9,,unknown,flat,alone,
 shizhen lyu,lianhua 6,Latitude and longitude positioning (phone app),22.55487,114.065923,photo,4.3,flexiable tape measure,33.1,,unknown,flat,alone,
+shizhen lyu,lianhua 3,Latitude and longitude positioning (phone app),22.555228,114.067931,photo,3.3,flexiable tape measure,20.7,,unknown,flat,alone,
 shizhen lyu,lianhua 2,Latitude and longitude positioning (phone app),22.555155,114.068421,photo,4.5,flexiable tape measure,15,,unknown,flat,alone,
-shizhen lyu,lianhua 4,Latitude and longitude positioning (phone app),22.555165,114.067742,photo,6,flexiable tape measure,49.7,,unknown,flat,forest,
-shizhen lyu,lianhua 5,Latitude and longitude positioning (phone app),22.555529,114.067632,photo,6.2,flexiable tape measure,64.6,,unknown,flat,forest,
-Skye Gregory,pencil,Google Maps (phone),-33.7914342,150.9902154,angle,15.9,flexible tape,26.2,unsure,unknown,slope,small group ,
-Skye Gregory,earphones,Google Maps (phone),-33.7914378,150.9901952,angle,26.6,flexible tape,76.4,unsure,unknown,slope,small group ,
-Skye Gregory,phone,Google Maps (phone),-33.7914551,150.990162,angle,28.4,flexible tape,79.8,unsure,unknown,slope,small group ,
-Skye Gregory,lamp,Google Maps (phone),-33.7914509,150.9901751,angle,30.4,flexible tape,81.3,unsure,unknown,slope,small group ,
-Skye Gregory,computer,Google Maps (phone),-33.7914659,150.9901463,angle,36.8,flexible tape,110.3,unsure,unknown,slope,small group ,
-Sophia Koller,indigo,Google maps app,-33.729421,151.048236,photo,7.67,Flexible tape,10.82,NA,unknown,moderate-steep,forest,Next to creek
-Sophia Koller,green,Google maps app,-33.729374,151.047781,photo,7.98,Flexible tape,12.57,Casuarina,Not Eucalypt,slope,forest,
-Sophia Koller,red,Google maps app,-33.728575,151.048711,photo,8.46,Flexible tape,16.07,NA,unknown,moderate-steep,forest,
-Sophia Koller,yellow,Google maps app,-33.728834,151.048387,photo,9.45,Flexible tape,15.76,NA,unknown,slope,forest,
-Sophia Koller,orange,Google maps app,-33.728801,151.048628,photo,14.99,Flexible tape,73.85,Eucalyptus,Eucalypt,moderate-steep,forest,
-Sophia Koller,blue,Google maps app,-33.729733,151.047938,photo,19.09,Flexible tape,43.29,Eycalyptus,Eucalypt,flat,forest,Next to creek
-Steph Atkinson,Dumbledore,Google Maps Phone,-33.89535,151.25916,angle,8.1,Tape measure,43.93,Unknown,unknown,flat,alone,
+shizhen lyu,lianhua 1,Latitude and longitude positioning (phone app),22.555548,114.068363,photo,4.3,flexiable tape measure,29.9,,unknown,flat,alone,
 Steph Atkinson,Harry,Google Maps Phone,-33.89681,151.25763,angle,13.82,Tape measure,65.89,Palm,Not Eucalypt,slope,alone,
-Steph Atkinson,Hermione,Google Maps Phone,-33.89572,151.25734,angle,12.95,Tape measure,26.42,Eucalyptus,Eucalypt,slope,forest,
-Steph Atkinson,Snape,Google Maps Phone,-33.89682,151.25884,angle,16.5,Tape measure,60.8,Banksia,Not Eucalypt,flat,forest,
-Steph Atkinson,Hagrid,Google Maps Phone,-33.89445,151.25711,angle,26.3,Tape measure,184.62,Fig,Not Eucalypt,slope,forest,Circumference undulating
-Steph Atkinson,Ron,Google Maps Phone,-33.89551,151.25788,angle,26.5,Tape measure,52.52,Pine,Not Eucalypt,slope,forest,
-Stephanie Woolley,bruce,Google Maps (phone),-33.7287424,151.1304074,angle,2,flexible tape measure,47.9,unsure,unknown,flat,alone,
+Steph Atkinson,Dumbledore,Google Maps Phone,-33.89535,151.25916,angle,8.1,Tape measure,43.93,Unknown,unknown,flat,alone,
 Stephanie Woolley,gill,Google Maps (phone),-33.7306678,151.302062,angle,2.6,flexible tape measure,14.6,unsure,unknown,flat,alone,
-Stephanie Woolley,marlin,Google Maps (phone),-33.7271644,151.1316908,angle,2.1,flexible tape measure,25.3,Eucalyptus,Eucalypt,flat,forest,
-Stephanie Woolley,dory,Google Maps (phone),-33.7275665,151.1314186,angle,2.4,flexible tape measure,23.2,Eucalyptus,Eucalypt,flat,forest,
-Stephanie Woolley,crush,Google Maps (phone),-33.7270498,151.1317602,angle,2.5,flexible tape measure,21.2,Eucalyptus,Eucalypt,flat,forest,
-Stephanie Woolley,nemo ,Google Maps (phone),-33.7275035,151.1315651,angle,3.7,flexible tape measure,82.4,unsure,unknown,flat,forest,
-Syarifah Alisya,joey,google maps phone,2.9164143,101.6893629,photo,6.86,flexible tape,26.74,,unknown,flat,alone,at the park
-Syarifah Alisya,monica,google maps phone,2.916131,101.6898732,photo,9.14,flexible tape,52.84,,unknown,slope,alone,at the park
-Syarifah Alisya,rachel,google maps phone,2.9162957,101.6895152,photo,9.4,flexible tape,32.47,,unknown,flat,alone,at the park
+Stephanie Woolley,bruce,Google Maps (phone),-33.7287424,151.1304074,angle,2,flexible tape measure,47.9,unsure,unknown,flat,alone,
 Syarifah Alisya,ross,google maps phone,2.9167592,101.6894558,photo,11.58,flexible tape,19.42,,unknown,flat,alone,at the park
+Syarifah Alisya,rachel,google maps phone,2.9162957,101.6895152,photo,9.4,flexible tape,32.47,,unknown,flat,alone,at the park
+Syarifah Alisya,monica,google maps phone,2.916131,101.6898732,photo,9.14,flexible tape,52.84,,unknown,slope,alone,at the park
+Syarifah Alisya,joey,google maps phone,2.9164143,101.6893629,photo,6.86,flexible tape,26.74,,unknown,flat,alone,at the park
 Syarifah Alisya,chandler,google maps phone,2.9159498,101.690174,photo,13.59,flexible tape,166,not sure,unknown,flat,alone,at the park
-Syarifah Alisya,phobe,google maps phone,2.9168931,101.6893877,photo,6.85,flexible tape,33.74,,unknown,flat,small group ,at the park
-Syarifah Alisya,ursula,google maps phone,2.9174456,101.6893341,photo,11.05,flexible tape,29.6,,unknown,moderate-steep,small group ,at the park
-Sze Wing Shum,smol_tiff,Google Map,22.498145,114.134357,photo,5.1,Flexible Tape,35.01,malvaceae,Not Eucalypt,slope,alone,in a park
-Sze Wing Shum,smol_wing,Google Map,22.498813,114.133072,photo,5.1,Flexible Tape,12.1,fabaceae,Not Eucalypt,slope,alone,in a park
-Sze Wing Shum,medium_charlotte,Google Map,22.499112,114.134731,photo,7.93,Flexible Tape,21.33,delonix,Not Eucalypt,slope,alone,in a park
-Sze Wing Shum,medium_swan,Google Map,22.499029,114.134634,photo,10.2,Flexible Tape,20.53,fig,Not Eucalypt,slope,alone,in a park
 Sze Wing Shum,tall_rachel,Google Map,22.499058,114.133115,photo,12.75,Flexible Tape,36.9,myrtacea,unknown,slope,alone,in a park
 Sze Wing Shum,tall_betty,Google Map,22.498803,114.134284,photo,18.7,Flexible Tape,51.88,myrtacea,unknown,slope,alone,in a park
+Sze Wing Shum,smol_wing,Google Map,22.498813,114.133072,photo,5.1,Flexible Tape,12.1,fabaceae,Not Eucalypt,slope,alone,in a park
+Sze Wing Shum,smol_tiff,Google Map,22.498145,114.134357,photo,5.1,Flexible Tape,35.01,malvaceae,Not Eucalypt,slope,alone,in a park
+Sze Wing Shum,medium_swan,Google Map,22.499029,114.134634,photo,10.2,Flexible Tape,20.53,fig,Not Eucalypt,slope,alone,in a park
+Sze Wing Shum,medium_charlotte,Google Map,22.499112,114.134731,photo,7.93,Flexible Tape,21.33,delonix,Not Eucalypt,slope,alone,in a park
+Thomas Tyrrell,You,Google Earth Pro (Computer),-33.751606,150.706973,photo,12,Flexible tape,40.4,,unknown,flat,alone,
 Thomas Tyrrell,UpNever,Google Earth Pro (Computer),-33.751582,150.706673,photo,2.5,Flexible tape,8.1,,unknown,flat,alone,
 Thomas Tyrrell,NeverGonna,Google Earth Pro (Computer),-33.751534,150.706567,photo,8.5,Flexible tape,57.3,Palm tree,Not Eucalypt,flat,alone,
-Thomas Tyrrell,GiveYou,Google Earth Pro (Computer),-33.751621,150.7066,photo,11,Flexible tape,25.3,Eucalypt,Eucalypt,flat,alone,
 Thomas Tyrrell,GonnaLet,Google Earth Pro (Computer),-33.751636,150.706846,photo,11,Flexible tape,137.9,Columnar Oak,Not Eucalypt,flat,alone,
+Thomas Tyrrell,GiveYou,Google Earth Pro (Computer),-33.751621,150.7066,photo,11,Flexible tape,25.3,Eucalypt,Eucalypt,flat,alone,
 Thomas Tyrrell,Down,Google Earth Pro (Computer),-33.751507,150.706956,photo,11.5,Flexible tape,34.4,,unknown,flat,alone,
-Thomas Tyrrell,You,Google Earth Pro (Computer),-33.751606,150.706973,photo,12,Flexible tape,40.4,,unknown,flat,alone,
 Thy Tran,Sky,Google Maps Browser,-33.884339,150.912725,photo,8.1,Flexible Tape,47.11,Paperbark,Not Eucalypt,flat,alone,From a park
 Thy Tran,Photosynthesis,Google Maps Browser,-33.884181,150.91267,photo,10.29,Flexible Tape,33.42,Paperbark,Not Eucalypt,flat,alone,From a park
 Thy Tran,Electrolysis,Google Maps Browser,-33.884121,150.912702,photo,15.81,Flexible Tape,53.79,Eucalyptus,Eucalypt,flat,alone,From a park
 Thy Tran,Carbon Cycle,Google Maps Browser,-33.884112,150.912485,photo,16.02,Flexible Tape,48.7,Eucalyptus,Eucalypt,flat,alone,From a park
-Thy Tran,Soil ,Google Maps Browser,-33.884088,150.91281,photo,8.89,Flexible Tape,31.19,Paperbark,Not Eucalypt,flat,small group ,From a park
-Thy Tran,Hydrolysis,Google Maps Browser,-33.884023,150.912515,photo,18.76,Flexible Tape,44.88,Eucalyptus,Eucalypt,flat,small group ,From a park
-TIANLE LYU,Lebron James,Google map phone,-333.9019276,151.2050838,photo,8.47,retractable metal tape,40,N/A,unknown,flat,alone,Planted
 TIANLE LYU,Stphen Curry,Google map phone,-33.9045815,151.2207653,photo,13.47,retractable metal tape,73,Plam tree,Not Eucalypt,flat,alone,
-TIANLE LYU,Antony Davis,Google map phone,-33.9180725,151.217211,photo,6.38,Flexible tape,220,N/A,unknown,flat,forest,
-TIANLE LYU,Miles Bridges,Google map phone,-33.9647578,151.2617387,photo,13.56,retractable metal tape,53.4,N/A,unknown,slope,forest,
-TIANLE LYU,Luka Doncic,Google map phone,-33.9250142,151.2170947,photo,5.2,retractable metal tape,0.334,N/A,unknown,flat,unknown,planted near the road
-TIANLE LYU,Lamelo Ball,Google map phone,-33.9051834,151.2220898,photo,7.74,retractable metal tape,74,N/A,unknown,flat,unknown,near the road
-Tim Harding,Elaine Benes,Google Maps App,-33.72754,151.047963,photo,,sewing tape (flexible),17.34,??,unknown,slope,alone,"Macquarie Dr, Cherrybrooke, Slight elevation "
-Tim Harding,Kosmo Kramer,Google Maps App,-33.717723,151.044536,photo,,sewing tape (flexible),28.01,Pine,Not Eucalypt,flat,alone,"Greenway Park, CherryBrooke"
-Tim Harding,Crazy Joe Davola,Google Maps App,-33.720525,151.042888,photo,,sewing tape (flexible),32.47,??,unknown,flat,alone,"Greenway Park Upper Carpark, Cherrybrooke"
-Tim Harding,Jerry Seinfeld,Google Maps App,-33.720572,151.04638,photo,,sewing tape (flexible),17.56,Gum,Eucalypt,flat,forest,"Blackwattle Trail, Cherrybrooke"
-Tim Harding,George Costanza,Google Maps App,-33.720322,151.046907,photo,,sewing tape (flexible),12.73,Palm,Not Eucalypt,slope,forest,"Site 2, Blackwattle Trail, Cherrybrooke, Slight elevation "
-Tim Harding,Numan,Google Maps App,-33.718988,151.045852,photo,,sewing tape (flexible),24.19,Gum,Eucalypt,flat,forest,"Greenway Park 2, CherryBrooke"
-Violaine Gabriel,Isolation Tree,Google Maps (Phone App),-33.940492,151.2499122,photo,7.5,Retractable metal tape,98.68,,unknown,flat,alone,
+TIANLE LYU,Lebron James,Google map phone,-333.9019276,151.2050838,photo,8.47,retractable metal tape,40,N/A,unknown,flat,alone,Planted
 Violaine Gabriel,The same Isolation Tree,Google Maps (Phone App),-33.940492,151.2499122,angle ,7.5,Retractable metal tape,98.68,,unknown,flat,alone,
+Violaine Gabriel,Isolation Tree,Google Maps (Phone App),-33.940492,151.2499122,photo,7.5,Retractable metal tape,98.68,,unknown,flat,alone,
 Will Connor,Wet,Google maps (phone),-33.904322,151.234251,angle,9.5,Tape Measure,16,unknown,unknown,flat,alone,
-Will Connor,Fernando,Google maps (phone),-33.892091,151.234239,angle,12.9,tape Measure,25,Unknown,unknown,slope,alone,
-Will Connor,Slinky,Google maps (phone),-33.903326,151.2361,angle,24.1,Tape Measure,135,Fig?,Not Eucalypt,flat,alone,
 Will Connor,Stella,Google maps (phone),-33.899715,151.231932,angle,27.3,tape Measure,57,Palm,Not Eucalypt,flat,alone,
+Will Connor,Slinky,Google maps (phone),-33.903326,151.2361,angle,24.1,Tape Measure,135,Fig?,Not Eucalypt,flat,alone,
+Will Connor,Fernando,Google maps (phone),-33.892091,151.234239,angle,12.9,tape Measure,25,Unknown,unknown,slope,alone,
+William Brockie,T1F,Google Maps (phone),-33.942836,151.135716,photo,11.9,Flexible tape,30.4,Eucalypt,Eucalypt,flat,alone,
+William Brockie,T1E,Google Maps (phone),-33.943466,151.134217,photo,15.3,Flexible tape,38.5,Eucalypt,Eucalypt,flat,alone,
+William Brockie,T1D,Google Maps (phone),-33.944311,151.134638,photo,14.4,Flexible tape,35.3,Eucalypt,Eucalypt,flat,alone,
+William Brockie,T1C,Google Maps (phone),-33.943623,151.136727,photo,15.8,Flexible tape,40.6,Eucalypt,Eucalypt,flat,alone,
+William Brockie,T1B,Google Maps (phone),-33.940784,151.141861,photo,13.7,Flexible tape,32.2,Eucalypt,Eucalypt,flat,alone,
+William Brockie,T1A,Google Maps (phone),-33.940442,151.141862,photo,6.56,Flexible tape,23.7,Unsure ,Not Eucalypt,flat,alone,
+Yingchao Cai,short2_cca,Google Earth Phone,-33.77693,151.11499,photo,6.35,Flexible tape,17.2,Oleaceae (unsure),Not Eucalypt,flat,alone,Road side / inside Uni
+Yingchao Cai,short1_cca,Google Earth Phone,-33.77902,151.11519,photo,2.25,Flexible tape,13.1,Eucalyptus,Eucalypt,flat,alone,Road side
+Yingchao Cai,mid2_cca,Google Earth Phone,-33.77945,151.11504,photo,9,Flexible tape,46.2,unknown,unknown,flat,alone,few leaves / inside Uni
+Yingchao Cai,mid1_cca,Google Earth Phone,-33.77746,151.11583,photo,7.33,Flexible tape,45.8,Oleaceae (unsure),Not Eucalypt,flat,alone,inside Uni
+Yingchao Cai,high2_cca,Google Earth Phone,-33.77835,151.11563,photo,17.35,Flexible tape,92.6,Oleaceae (unsure),Not Eucalypt,flat,alone,inside Uni
+Yingchao Cai,high1_cca,Google Earth Phone,-33.77949,151.1148,photo,14.88,Flexible tape,72.9,Eucalyptus,Eucalypt,flat,alone,
+Youxin Chen,Pita2,Google Maps,31.15404994,121.3908258,angle,5.6,Flexible Tape,13.3,Pinus tabuliformis,Not Eucalypt,flat,alone,
+Youxin Chen,Pita1,Google Maps,31.15392448,121.3903138,angle,19.5,Flexible Tape,89.6,Pinus tabuliformis,Not Eucalypt,flat,alone,
+Youxin Chen,Maya2,Google Maps,31.15359056,121.3886019,angle,5.1,Flexible Tape,14.3,Magnolia Alba,Not Eucalypt,flat,alone,
+Youxin Chen,Maya1,Google Maps,31.15377393,121.3900116,angle,3.8,Flexible Tape,8.4,Magnolia Alba,Not Eucalypt,flat,alone,
+Youxin Chen,Concetta2,Google Maps,31.15368514,121.3892221,angle,5.8,Flexible Tape,16.2,Cinnamomum camphora,Not Eucalypt,flat,alone,
+Youxin Chen,Concetta1,Google Maps,31.15369286,121.3897815,angle,14.7,Flexible Tape,40,Cinnamomum camphora,Not Eucalypt,flat,alone,
+yushu zhang,qiaqia,Google map app,43.879646,87.613349,angle,15.38,Flexible Tape,98.2,Ulmus pumila,Not Eucalypt,slope,alone,Planted
+yushu zhang,moke,Google map app,43.879419,87.613326,angle,16.28,Flexible Tape,101,Ulmus pumila,Not Eucalypt,slope,alone,Planted
+yushu zhang,kiwi,Google map app,43.880749,87.617884,angle,8.24,Flexible Tape,20,Ginkgo biloba,Not Eucalypt,flat,alone,Planted
+yushu zhang,jelly,Google map app,43.877439,87.623573,angle,8.38,Flexible Tape,26,Ginkgo biloba,Not Eucalypt,flat,alone,planted
+yushu zhang,doki,Google map app,43.880172,87.623739,angle,7.65,Flexible Tape,16,Ginkgo biloba,Not Eucalypt,flat,alone,planted
+yushuzhang,yoyo,Google map app,43.873783,87.609867,angle,13.45,Flexible Tape,72,Ulmus pumila,Not Eucalypt,flat,alone,planted
+Zac Slevin,where,Google Maps phone app,-33.941331,151.247951,photo,7.8,flexible tape,42.02,no clue,unknown,slope,alone,
+Zac Slevin,we're,Google Maps phone app,-33.94001,151.24953,photo,7.74,flexible tape,39.15,no clue,unknown,flat,alone,
+Zac Slevin,were,Google Maps phone app,-33.940829,151.247535,photo,2.98,flexible tape,14.96,no clue,unknown,flat,alone,
+Zac Slevin,they're,Google Maps phone app,-33.942953,151.250277,photo,7.98,flexible tape,34.38,palm?,Not Eucalypt,flat,alone,
+Zac Slevin,there,Google Maps phone app,-33.942441,151.250761,photo,10.42,flexible tape,46.79,no clue,unknown,slope,alone,
+Zac Slevin,their,Google Maps phone app,-33.94303,151.249969,photo,4.1,flexible tape,10.82,no clue,unknown,flat,alone,
+Zara Zoe,Double Boring Green,Google Maps Phone,-33.8691239,151.2528351,angle,10.4,Metal Tape Measure,49,Murraya?,Not Eucalypt,flat,alone,Roadside - healthy
+Zara Zoe,Boring Green,Google Maps phone,-33.8687968,151.2529159,angle,10.2,Metal Tape Measure,58,Murraya?,Not Eucalypt,flat,alone,Roadside - healthy
+Zara Zoe,Big Boy Fig,Google Maps Phone,-33.8692856,151.2528224,angle,26.9,Metal Tape Measure,120,Ficus,Not Eucalypt,flat,alone,Roadside - healthy
+Zoe Ball,Tiffany,Google Maps (phone),-33.9906723,151.1166262,photo,20.7,String,43.9,she oak,Not Eucalypt,flat,alone,scattered trees throughout at recreation park
+Zoe Ball,Matilda,Google Maps (phone),-33.9900671,151.1194894,photo,19.5,String,34.5,Pine tree,Not Eucalypt,flat,alone,"trees lining a beach, mostly planted when area was turned into a recreational park"
+Zoe Ball,Lorax,Google Maps (phone),-33.9892821,151.1190442,photo,17.2,String,39.8,Eucalypt,Eucalypt,moderate-steep,alone,"next to carpark, surrounded by shrubs"
+Zoe Ball,DannyDevito,Google Maps (phone),-33.98983,151.1197231,photo,20.64,String,100,Fig,Not Eucalypt,slope,alone,on the edge of a small drop and staircase
+Anh Quach,Xeric ,Google maps,-33.951287,151.0316625,photo,5.4,Flexible tape ,32,,unknown,flat,alone,
+Ashley Purcell ,Scott,Google maps phone,-33.7608201,151.0410006,angle,7.5,Flexible tape,13.37,Eucalyptus ,Eucalypt,flat,alone,
+Ashley Purcell ,Khloe ,Google maps phone,-33.7631765,151.0377816,angle,12.2,Flexible tape,77.35,Palm tree ,Not Eucalypt,flat,alone,
+Ashley Purcell ,Kendall,Google maps phone,-33.7636598,151.0433047,angle,2.85,Flexible tape,13.05,Myrtacae ,unknown,flat ,alone,Side of the road 
+Cassandra Choueifati,Toby,Google Maps (phone),-33.9439232,151.0991466,photo,8.15,flexible tape measure,54.11,n/a ,unknown,flat ,alone,
+Cassandra Choueifati,Pam,Google Maps (phone),-33.9416093,151.0998097,photo,9.54,flexible tape measure,49.66,Eucalyptus piperita,Eucalypt,flat ,alone,
+Cassandra Choueifati,Michael Scott,Google Maps (phone),-33.9465657,151.0986765,photo,13.35,flexible tape measure,92.31,Eucalyptus robusta,Eucalypt,flat ,alone,
+Cassandra Choueifati,Kevin,Google Maps (phone),-33.9464748,151.0993692,photo,14.26,flexible tape measure,87.22,n/a ,unknown,flat ,alone,
+Cassandra Choueifati,Jim,Google Maps (phone),-33.9445023,151.0991647,photo,4.38,flexible tape measure,41.38,n/a ,unknown,flat,alone,
+Cassandra Choueifati,Dwight,Google Maps (phone),-33.9460025,151.0996049,photo,9.78,flexible tape measure,46.15,n/a ,unknown,flat ,alone,
+Eliza Menzies,Sydney,Google Maps (phone),-33.915905,151.228358,angle,23.7,Metal tape,81.6,Broad-leafed Paperbark,Not Eucalypt,flat ,alone,
+Eliza Menzies,Perth,Google Maps (phone),-33.915526,151.229399,angle,34.3,Metal tape,160.3,Moreton Bay Fig,Not Eucalypt,flat ,alone,Part of a row of the same trees lining a road.
+Eliza Menzies,Melbourne,Google Maps (phone),-33.915916,151.228351,angle,7.1,Metal tape,10.6,Unkown,unknown,flat ,alone,
+Eliza Menzies,Brisbane,Google Maps (phone),-33.915255,151.229252,angle,16.6,Metal tape,27.4,Spotty Sycamore,Not Eucalypt,slope,alone,
+Eliza Menzies,Adelaide,Google Maps (phone),-33.915828,151.229382,angle,10.9,Metal tape,14.4,Eucalypt,Eucalypt,flat ,alone,
+Evangeline Faught ,Table ,Google maps (phone app),-33.8643854,151.1792777,photo,4.5,string ,26.4,cupaniopsis anacardioides,Not Eucalypt,flat ,alone,
+Evangeline Faught ,Floorboards ,Google maps (phone app),-33.8645491,151.1780277,photo,5.6,string ,38.1,cupaniopsis anacardioides,Not Eucalypt,flat ,alone,
+Evangeline Faught ,Door ,Google maps (phone app),-33.8644544,151.1787307,photo ,9,string ,109.1,Stringy bark ,Eucalypt,flat ,alone,
+Evangeline Faught ,Clogs ,Google maps (phone app),-33.8644544,151.1790744,photo,6.5,string ,46.7,cupaniopsis anacardioides,Not Eucalypt,flat ,alone,
+Evangeline Faught ,Chair ,Google maps (phone app),-33.8645346,151.178886,photo,5,string ,23.3,white gum ,Eucalypt,flat ,alone,
+Evangeline Faught ,Cabin ,Google maps (phone app),-33.8646042,151.1781792,photo,5.9,string ,23.2,White gum,Eucalypt,flat ,alone,
+Grace Carter,Yo ,Google maps (browser),-35.309704,149.142199,photo,13,Flexible tape,38.9,,unknown,flat ,alone,
+Grace Carter,Stonk ,Google maps (browser),-35.325801,149.142061,photo,8.56,Flexible tape,43,,unknown,slope,alone,
+Grace Carter,Stink,Google maps (browser),-35.325897,149.141639,photo,10.35,Flexible tape,45.33,,unknown,flat ,alone,
+Grace Carter,Mama,Google maps (browser),-35.309697,149.143149,photo,10.43,Flexible tape,34.6,,unknown,flat ,alone,
+Grace Carter,Gerry,Google maps (browser),-35.315216,149.136962,photo,25.77,Flexible tape,60.63,Eucalypt ,Eucalypt,flat ,alone,
+Grace Carter,Carl,Google maps (browser),-35.3115,149.141028,photo,21.23,Flexible tape,46.56,Eucalypt ,Eucalypt,flat ,alone,
+Hannah Farrant- Jayet,Cousin It,Google Maps Phone,-33.1398915,148.1753034,angle,4.5,Tape measure,10,Wollemi Pine,Not Eucalypt,flat,alone,Community park
+Holly Gamboa ,Toad ,Google maps phone,-34.0143099,151.0080728,angle,5.2,Flexible tape,9.86,Northern white cedar ,Not Eucalypt,flat ,alone,
+Quincy (Forest) Tut,NoThrough,Google Maps browser ,-34.440358,150.836818,photo,23.50311111,flexible tape measure,56.12,unknown,unknown,slope,alone,
+Quincy (Forest) Tut,Henry,Google Maps browser ,-34.444369,150.837766,photo,17.88466667,flexible tape measure,30.78,unknown,unknown,flat,alone,
+Quincy (Forest) Tut,Driveway,Google Maps browser ,-34.441462,150.839213,photo,10.0727619,flexible tape measure,25.91,unknown,unknown,flat,alone,
+Aaliyah Ardiansyah,Mike Wazowski,google maps phone,-33.91995,151.14622,angle,10.85,flexible tape,11.4,eucalypt,Eucalypt,flat,forest,next to oval
+Aaliyah Ardiansyah,James P. Sullivan,google maps phone,-33.91985,151.14584,angle,19.77,flexible tape,54.9,gum tree?,Eucalypt,flat,forest,"Most leaves had lots of holes, maybe a parasite? next to oval"
+Aaliyah Ardiansyah,Celia Mae,google maps phone,-33.91997,151.1458,angle,14.39,flexible tape,63.3,unsure,unknown,flat,forest,"wooden structure supporting it's base, next to oval"
+Aaliyah Ardiansyah,Boo,google maps phone,-33.91984,151.14599,angle,11.19,flexible tape,11.5,eucalypt,Eucalypt,flat,forest,next to oval
+Alex Kasiou,Zink Fan,Google maps (phone),-34.08997,150.99843,angle,6.92,flexible tape measure,17.67,Ferntree?,Not Eucalypt,slope,forest,bushland
+Alex Kasiou,Riley (Tiles),Google maps (phone),-34.09085,150.99962,angle,20.78,flexible tape measure,46.7,Unknown,unknown,flat,forest,bushland
+Alex Kasiou,Reginald (Reggie (Derogatory)),Google maps (phone),-34.08996,150.99969,angle,8.09,flexible tape measure,10.28,Gum?,Eucalypt,flat,forest,bushland
+Alex Kasiou,Christoph,Google maps (phone),-34.09154,150.99921,angle,12.13,flexible tape measure,30.56,Unknown,unknown,slope,forest,bushland
+Alex Kasiou,ARC-77,Google maps (phone),-34.09214,150.99916,angle,6.25,flexible tape measure,21.33,Banksia?,Not Eucalypt,slope,forest,bushland
+Alex Kasiou,Anguish,Google maps (phone),-34.0918,150.99682,angle,9.47,flexible tape measure,48.7,Gum,Eucalypt,slope,forest,bushland
+Alex Lam,Flour,google maps phone,-33.93303,150.93316,photo,13.6,flexible tape,27.69,,unknown,moderate-steep,forest,in a park
+Alex Lam,Cream,google maps phone,-33.93234,150.93331,photo,18.01,flexible tape,58.25,Eucalptus,Eucalypt,flat,forest,in a park
+Alex Lam,Butter,google maps phone,-33.93273,150.93396,photo,27.36,flexible tape,45.2,Melaleuca,Not Eucalypt,moderate-steep,forest,in a park
+Alvin Yao,McBarry,Google Maps Phone App,-33.7890599,151.0921477,photo,22.8,Flexible Tape,50.77,Pine,Not Eucalypt,flat,forest,"Jim Welsh Park, one of a group of 3"
+Alvin Yao,Harry,Google Maps Phone App,-33.7888974,151.0925986,photo,18.67,Flexible Tape,46.47,Eucalyptus,Eucalypt,flat,forest,height may have been innacurate due to blurry image and angle of photo taken，A tree in Jim Welsh park
+Amber Cashman,Venus ,Google maps (phone),-32.325417,152.5268717,angle,2.51,flexible tape,5.09,native,unknown,flat,forest,
+Amber Cashman,Straight Mate ,Google maps (phone),-32.32569,152.527034,angle,11.65,flexible tape,30.56,paper bark,Not Eucalypt,flat,forest,
+Amber Cashman,Green Machine ,Google maps (phone),-32.325298,152.526931,angle,5.6,flexible tape,7.32,native,unknown,flat,forest,
+Amber Cashman,Bendy Wendy ,Google maps (phone),-32.32523,152.526615,angle,11.5,flexible tape,28.64,paper bark,Not Eucalypt,flat,forest,
+Amena Rahman,Feta,Google maps browser,-33.934513,151.09341,angle,14.7,flexible tape ,55.7,unsure,unknown,flat,forest,
+Amena Rahman,Brie,Google maps browser,-33.934467,151.093605,angle,6.26,flexible tape ,22.6,unsure,unknown,flat,forest,
+Antonia Dreierova,strom4,Google Maps (browser),-33.658179,151.121855,photo,7.89,Tape measure,17.19,Unknown,unknown,flat ,forest,
+Antonia Dreierova,strom3,Google Maps (browser),-33.658179,151.121855,photo,7.89,Tape measure,17.83,Unknown,unknown,flat ,forest,
+Antonia Dreierova,strom2,Google Maps (browser),-33.658081,151.121876,photo,8.02,Tape measure,18.14,Unknown,unknown,flat ,forest,
+Bryce Liddell,Gum 2,Google Maps,-33.990737,151.248031,photo,11.43,Tape Measure,40.43,Gum,Not Eucalypt,flat ,forest,
+Bryce Liddell,Casuarina 1,Google Maps,-33.985631,151.235735,photo,12,Tape Measure,31.19,Casuarina,Not Eucalypt,flat ,forest,
+Bryce Liddell,Banksia 1,Google Maps,-33.988001,151.23852,photo,11.01,Tape Measure,37.24,Banksia,Not Eucalypt,slope,forest,
+Campbell Maconachie,Wags the Dog,Google maps phone,-33.759964,151.229191,photo,6.44,flexible tape,7,Angophora,Eucalypt,flat,forest,
+Campbell Maconachie,Shirley Shawn the Unicorn,Google maps phone,-33.760081,151.228084,photo,4.41,flexible tape,5.73,Eucalyptus ,Eucalypt,slope,forest,
+Campbell Maconachie,Jeff,Google maps phone,-33.761284,151.227465,photo,2.47,flexible tape,6.05,Banksia,Not Eucalypt,flat,forest,
+Campbell Maconachie,Dorothy the Dinosaur,Google maps phone,-33.759285,151.229508,photo,10.81,flexible tape,25.84,Eucalyptus,Eucalypt,flat,forest,
+Campbell Maconachie,Captain Feathersword,Google maps phone,-33.760454,151.229314,photo,2.78,flexible tape,3.82,non-native,Not Eucalypt,flat,forest,
+Charlie Zekanovic,Skinny Tree 4,Google Maps browser ,-31.540869,152.808727,photo,13.9,Flexible Tape,20.8,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Charlie Zekanovic,Skinny Tree 3 ,Google Maps browser ,-31.541257,152.808465,photo,13.9,Flexible Tape,31.1,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Charlie Zekanovic,Skinny Tree 2,Google Maps browser ,-31.540193,152.808986,photo,8.5,Flexible Tape,19.4,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Charlie Zekanovic,Skinny Tree 1 ,Google Maps browser ,-31.539359,152.809385,photo,9.12,Flexible Tape,13.5,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Charlie Zekanovic,Medium Tree 1,Google Maps browser ,-31.539826,152.809108,photo,18.7,Flexible Tape,35.4,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Charlie Zekanovic,Big Tree 1,Google Maps browser ,-31.540592,152.809539,photo,18.8,Flexible Tape,47.7,Eucalypt,Eucalypt,flat,forest,Sclerophyll Forest
+Claire Luger,Scary Spice,Google Maps Phone App,-33.733013,151.109817,photo,5.07,flexible Tape,16.07,Tree Fern,Not Eucalypt,slope,forest,
+Claire Luger,Baby Spice,Google Maps Phone App,-33.733067,151.109976,photo,13.13,flexible Tape,51.88,Eucalypt,Eucalypt,moderate-steep,forest,
+Fariz Nasir,ohh easier,Google maps phone,2.885971,101.779194,photo,8.12,Flexible tape,13.5,n/a,unknown,flat,forest,
+Fariz Nasir,it's,Google maps phone,2.885791,101.779289,photo,16.1,Flexible tape,61.75,n/a,unknown,flat,forest,
+Fariz Nasir,"i'm falling, i'm falling",Google maps phone,2.88568,101.779215,photo,6.74,Flexible tape,30.08,n/a,unknown,flat,forest,
+Fariz Nasir,gonna,Google maps phone,2.886861,101.778788,angle,23.97,Flexible tape,45.83,n/a,unknown,flat,forest,
+Freya Li,TreeF,google maps browser,39.972773,116.284669,photo,7.06,flexible tape,12.5,unknown,unknown,flat,forest,
+Freya Li,TreeE,google maps browser,39.972794,116.284546,photo,38.4,flexible tape,60.51,willow,Not Eucalypt,flat,forest,
+Freya Li,TreeD,google maps browser,39.972794,116.284465,photo,6.32,flexible tape,14.65,pinetree,Not Eucalypt,flat,forest,
+Freya Li,TreeC,google maps browser,39.972782,116.284382,photo,5.29,flexible tape,15.92,cypress,unknown,flat,forest,
+Gabrielle Yeung,Tree_6,Google Maps (Mac),-33.71235,150.950644,photo,24.93,flexible tape,39.15,Eucalyptus,Eucalypt,flat,forest,
+Gabrielle Yeung,Tree_4,Google Maps (Mac),-33.71253,150.951,photo,26.06,flexible tape,96.77,Eucalyptus,Eucalypt,flat,forest,
+Gabrielle Yeung,Tree_3,Google Maps (Mac),-33.712523,150.950945,photo,23.75,flexible tape,55.07,Eucalyptus,Eucalypt,flat,forest,
+Gabrielle Yeung,Tree_2,Google Maps (Mac),-33.71168,150.95032,photo,24.97,flexible tape,123.5,Eucalyptus,Eucalypt,flat,forest,
+Gabrielle Yeung,Tree_1,Google Maps (Mac),-33.711729,150.950495,photo,19.9,flexible tape,95.49,Eucalyptus,Eucalypt,flat,forest,
+Gerard Roebuck,Small Sam,Google Maps App,-33.49485,150.15141,photo,4.05,Flexible tape,10.8225,Wattle,Not Eucalypt,slope,forest,Sheedy's Gully
+Gerard Roebuck,Small Sally,Google Maps App,-33.495388,150.151293,photo,6.98,Flexible tape,11.7775,Eucalyptus,Eucalypt,slope,forest,Sheedy's Gully
+Gerard Roebuck,Large Liz,Google Maps App,-33.496577,150.152052,photo,17.66,Flexible tape,63.0254,Eucalyptus,Eucalypt,slope,forest,Sheedy's Gully
+Hajar Alhowaish,Magpie master,Google Maps (phone),-33.897185,151.236851,photo,14.5,flexible tape,37.9,Eucalyptus,Eucalypt,slope,forest,
+Hajar Alhowaish,Bin chicken,Google Maps (phone),-33.896998,151.236358,photo,13.1,flexible tape,38.5,Eucalyptus,Eucalypt,flat,forest,
+Hannah Gallis,Violette,Apple Maps App,-33.961088,151.250508,photo,8.2,Flexible Tape,12.1,casuarinaceae,Not Eucalypt,flat,forest,
+Hannah Gallis,Marie,Apple Maps App,-33.963001,151.250507,photo,4.6,Flexible Tape,20.1,Cupaniopsis,Not Eucalypt,flat,forest,
+Hannah Gallis,Lily,Apple Maps App,-33.962547,151.250557,photo,13.8,Flexible Tape,43.4,celtis,Not Eucalypt,flat,forest,
+Hannah Gallis,Leyla,Apple Maps App,-33.961788,151.250713,photo,12.1,Flexible Tape,21.2,eucalyptus,Eucalypt,flat,forest,
+Hannah Gallis,Bruce,Apple Maps App,-33.960748,151.249132,photo,17.8,Flexible Tape,58.6,Araucaria,Not Eucalypt,flat,forest,
+Hannah Gallis,Bella,Apple Maps App,-33.961844,151.250383,photo,11.9,Flexible Tape,51.9,eucalyptus,Eucalypt,flat,forest,Trunk divided in two trunks so measure might be inaccurate
+Harry Blackett,Scotty,Google Maps Phone,-33.9627275,151.2502726,photo,14.25,Metal Tape Measure,46.15,Not Sure,unknown,flat,forest,All trees measured in a park near other trees 
+Harry Blackett,Gladys,Google Maps Phone,-33.9627752,151.2501345,photo,15.04,Metal Tape Measure,55.07,Not Sure,unknown,flat,forest,
+Harry Blackett,Dutton ,Google Maps Phone,-33.9620332,151.2502991,photo,15.39,Metal Tape Measure,57.29,Not Sure,unknown,flat,forest,
+Harry Blackett,Dan,Google Maps Phone,-33.9620966,151.2502676,photo,6.48,Metal Tape Measure,17.51,Not Sure,unknown,flat,forest,
+Harry Blackett,Annastacia ,Google Maps Phone,-33.9623396,151.2506082,photo,13.23,Metal Tape Measure,21,Not Sure,unknown,flat,forest,
+Harry Blackett,Albo,Google Maps Phone,-33.962472,151.2504815,photo,7.92,Metal Tape Measure,25.46,Not Sure,unknown,flat,forest,
+Holly Gamboa ,Princess Peach ,Google maps phone,-34.0139486,151.0068018,angle,18.63,Flexible tape,28.33,Eycalyptus,Eucalypt,flat,forest,In a Reserve 
+Holly Gamboa ,Mario ,Google maps phone,-34.0142335,151.0081174,angle,15.84,Flexible tape,14.96,Eycalyptus,Eucalypt,slope ,forest,In a Reserve 
+Holly Gamboa ,Luigi,Google maps phone,-34.014034,151.007635,angle,22.37,Flexible tape,50.93,Eycalyptus,Eucalypt,flat,forest,In a Reserve 
+Holly Gamboa ,Bowser ,Google maps phone,-34.0140728,151.0071069,angle,7.66,Flexible tape,10.82,unsure ,unknown,slope ,forest,In a Reserve 
+Jack Doyle,Rocket,google maps phone,-33.93615,151.23406,photo,11.34,flexible tape,47.75,N/A,unknown,flat,forest,at the park
+Jack Doyle,Groot,google maps phone,-33.93612,151.23415,photo,7.6,flexible tape,47.12,N/A,unknown,flat,forest,at the park
+Jack Doyle,Gamora,google maps phone,-33.93597,151.23558,photo,7.95,flexible tape ,36.61,N/A,unknown,slope,forest,at the park
+Jake Talakovski,Stemmy,google maps (mac),-33.97479566,151.0445518,photo,11.8,Metal Tape Measure,79,eucalypt,Eucalypt,flat,forest,on small reserve
+Jake Talakovski,Lil Timba ,google maps (mac),-33.97478898,151.045213,photo,12.27,Metal Tape Measure,92,eucalypt,Eucalypt,flat ,forest,on small reserve
+Jake Talakovski,Gummy,google maps (mac),-33.97432966,151.0450762,photo,15.97,Metal Tape Measure,41,eucalypt,Eucalypt,slope,forest,on small reserve
+Jake Talakovski,Big Oakie,google maps (mac),-33.97417952,151.0453444,photo,23.4,Metal Tape Measure,61,eucalypt,Eucalypt,slope,forest,on small reserve
+Jed Cruickshank,Gamma,Google maps (phone),-33.805636,151.218471,photo,1.4,flexible tape,7,unknown,unknown,flat,forest,river mouth estuary
+Jed Cruickshank,Epsilon,Google maps (phone),-33.806015,151.227109,angle,24.3,flexible tape,86.5,Forest red gum,Eucalypt,moderate-steep,forest,bushland
+Jed Cruickshank,Delta,Google maps (phone),-33.806447,151.228925,angle,13.7,flexible tape,60.9,Gray gum,Eucalypt,moderate-steep,forest,bushland
+Jed Cruickshank,Beta,Google maps (phone),-33.806256,151.230725,angle,17.6,flexible tape,48.2,Gum,Eucalypt,slope,forest,costal bushland
+Jemma Lieschke,Cosmo,Google maps app,-33.751597,151.294958,photo,8.8,Flexible tape,33,Paperbark,Not Eucalypt,flat,forest,
+Jiawei Liu,The dark tree,Google Maps (phone),31.978303,120.9345746,photo,6.8,Tape Measure,21.5,Locust tree,Not Eucalypt,flat,forest,
+Jiawei Liu,Slender tree,Google Maps (phone),31.9786479,120.9346187,photo,6.6,Tape Measure,17.3,Taxodium ascendens,Not Eucalypt,flat,forest,
+Jocelyn McGrade,Harold,Google Maps Phone,-33.90077,151.08992,photo,23.62,Flexible Tape,46.79,Casuarina,Not Eucalypt,slope,forest,
+Karina Williams,simba,google maps phone,-33.9222,151.23758,angle,41.7,flexible tape,235.5,ficus,Not Eucalypt,slope,forest,
+Karina Williams,rafiki,google maps phone,-33.92388,151.23625,angle,22.1,flexible tape,51.2,melaleuca,Not Eucalypt,flat,forest,in park
+Karina Williams,mufasa,google maps phone,-33.92207,151.2363,angle,37,flexible tape,121,eucalypt,Eucalypt,flat,forest,
+Kevin Zhang,Toe,Google maps phone,-33.7814678,151.0256829,angle,34.16,Flexible tape,25.15,,unknown,slope,forest,
+Kevin Zhang,Juan,Google maps phone,-33.7819399,151.0253077,angle,9.38,Flexible tape,6.37,,unknown,slope,forest,
+Kimberley Goodwin,Yondu,Google Maps Phone,-34.441522,150.890747,photo,12.47,Flexible Tape,59.21,Eucalyptus,Eucalypt,flat,forest,
+Kimberley Goodwin,Thanos,Google Maps Phone,-34.441058,150.890912,photo,7.3,Flexible Tape,40.58,Eucalyptus,Eucalypt,flat,forest,
+Kimberley Goodwin,Star Lord,Google Maps Phone,-34.441535,150.893305,photo,4.11,Flexible Tape,12.73,Radiata Pine,Not Eucalypt,flat,forest,
+Kimberley Goodwin,Rocket Racoon,Google Maps Phone,-34.441574,150.890911,photo,5.6,Flexible Tape,16.55,Duboisia myoporoides,Not Eucalypt,flat,forest,
+Kimberley Goodwin,Groot ,Google Maps Phone,-34.441533,150.890766,photo,8.44,Flexible Tape,31.29,Iron Bark,Eucalypt,flat,forest,
+Kimberley Goodwin,Gamora,Google Maps Phone,-34.4409796,150.8931154,photo,2.653,Flexible Tape,84.45,Pygmy Palm,Not Eucalypt,flat,forest,
+Maddie Wyndham,Stumpy,Google Maps (phone),-33.903685,151.168795,photo,9.6,Tape Measure,68.4,?,unknown,flat,forest,Very Open forest
+Maddie Wyndham,Spike,Google Maps (phone),-33.904834,151.16844,photo,14.9,Tape Measure,60.5,Some sort of pine,Not Eucalypt,flat,forest,Very Open forest
+Naina Bhonagiri,Tomathy,Google Maps Phone,-33.8970713,151.23.68877,angle,18.85,Flexible Tape,0.407,pine,Not Eucalypt,slope,forest,
+Naina Bhonagiri,Needle Dude,Google Maps Phone,-33.89939,151.2382261,angle,17.35,Flexible Tape,0.468,pine,Not Eucalypt,flat,forest,sparse forest ~75m away from pond
+Natasha Brobyn,Terrance,Google Maps Phone,-33.013309,151.716086,angle,15.16,flexible tape,38.197,She Oak,Not Eucalypt,flat,forest,Growing very close to two other trees in a park
+Natasha Brobyn,Beef Boy,Google Maps Phone,-33.013157,151.714853,angle,11.6,flexible tape,25.78,Paper Bark,Not Eucalypt,flat,forest,Right next to another small tree about the same height
+Phoebe Peng,detachable_limbs,Google Maps (phone),-33.791111,151.078056,photo,19.21,flexible tape,74.8,eucalypt,Eucalypt,slope,forest,
+Phoebe Peng,arabella,Google Maps (phone),-33.791389,151.078611,photo,11.5,flexible tape,20.69,honey locust,Not Eucalypt,flat,forest,
+Quincy (Forest) Tut,OrangeCar,Google Maps browser ,-34.441568,150.838291,photo,18.01333333,flexible tape measure,49.97,unknown,unknown,slope,forest,
+Quincy (Forest) Tut,KeepLeft,Google Maps browser ,-34.44037,150.83715,photo,20.14218182,flexible tape measure,34.12,unknown,unknown,flat,forest,
+Quincy (Forest) Tut,Grate,Google Maps browser ,-34.441756,150.834846,photo,18.01333333,flexible tape measure,41.41,unknown,unknown,flat,forest,
+Reem Hamed,Round Ronald,google earth pro ,-33.839325,151.004863,photo,5.32,flexible Tape,30.5,n/a,unknown,flat,forest,At the park
+Richard Gough,Sassy,Google Maps browser,-34.710137,150.641924,photo,7.39,metal tape,10.5,Doryphora sassafras,Not Eucalypt,flat,forest,"Sassafras - Monimiaceae, creek edge"
+Richard Gough,Hot Plates,Google Maps browser,-34.71366,150.642208,photo,5.04,metal tape,7.96,Dendrocnide excelsa,Not Eucalypt,flat,forest,"Giant Stinging Tree - Urticaceae, mid creek"
+Richard Gough,Guwal,Google Maps browser,-34.710461,150.643295,photo,27.56,metal tape,219.6,Toona ciliata,Not Eucalypt,slope,forest,"Red Cedar - Meliaceae - recent lost branch 31.7m long, 41.4cm diameter near break - was 30 degree angle to trunk, so canopy radius that side was around 30m"
+Richard Gough,Cassy,Google Maps browser,-34.710577,150.646137,photo,26.72,metal tape,82.8,Casuarina cunninghamiana,Not Eucalypt,flat,forest,"River Oak - Casuarinaceae, mid creek"
+Rory O'Connell,Yao Ming,Google Maps Phone,-33.80068,151.15525,angle,17.21,Tape Measure,26.74,Casuarina,Not Eucalypt,flat,forest,
+Rory O'Connell,Shaq,Google Maps Phone,-33.79966,151.15267,angle,24.69,Tape Measure,59.21,Eucalypt,Eucalypt,flat,forest,Had Fire Damage
+Rory O'Connell,Pauline,Google Maps Phone,-33.79996,151.15086,angle,7.86,Tape Measure,50.29,Palm,Not Eucalypt,flat,forest,
+Rory O'Connell,Elton John,Google Maps Phone,-33.80058,151.15497,angle,5.81,Tape Measure,11.78,She Oak,Not Eucalypt,flat,forest,By River
+Rory O'Connell,Birds Nest,Google Maps Phone,-33.80052,151.15595,angle,7.56,Tape Measure,25.78,Unkown,unknown,slope,forest,
+Rui Wang,Udon,Google Map App,-33.808305,151.050273,angle ,21.85,Flexible Tape,57.3,Eucalyptus,Eucalypt,flat,forest,Natural
+Rui Wang,Spaghetti,Google Map App,-33.803387,151.049457,angle ,24.4,Flexible Tape,64.71,Eucalyptus,Eucalypt,moderate-steep,forest,Natural
+Rui Wang,Pho,Google Map App,-33.807692,151.049241,angle ,12.68,Flexible Tape,39.47,Eucalyptus,Eucalypt,slope,forest,Natural
+Rui Wang,Mi Goreng,Google Map App,-33.807364,151.051009,angle ,17.07,Flexible Tape,46.15,Eucalyptus,Eucalypt,slope,forest,Natural
+S Gunasekera,Van Vanderzande #7,Google maps phone,-33.908269,151.183257,photo,10.8,metal tape measure,18.8,Eucalyptus,Eucalypt,slope,forest,
+S Gunasekera,Polly Jean,Google maps phone,-33.914438,151.184321,photo,15.8,metal tape measure,29.9,Sheoak,Not Eucalypt,flat,forest,Hey that's one big queen
+S Gunasekera,Dink's Tree,Google maps phone,-33.909466,151.18641,photo,29.7,metal tape measure,38.8,Eucalyptus,Eucalypt,moderate-steep,forest,
+S Gunasekera,Dave Drumsticks,Google maps phone,-33.91073,151.182461,photo,26.1,metal tape measure,42.3,Eucalyptus,Eucalypt,flat,forest,
+S Gunasekera,Consigliori,Google maps phone,-33.908957,151.18634,photo,11.1,metal tape measure,22.6,Eucalyptus,Eucalypt,slope,forest,
+Shanella Madanayake,Registeel,Google Maps (Phone App),-33.716372,150.982718,photo,7.62,Flexible Tape,13.46,Not Sure,unknown,slope,forest,Fred Caterson Reserve 
+Shanella Madanayake,Regirock,Google Maps (Phone App),-33.716097,150.982704,photo,11.51,Flexible Tape,21.49,Eucalypt,Eucalypt,slope,forest,Fred Caterson Reserve 
+Shanella Madanayake,Regigigas,Google Maps (Phone App),-33.715775,150.981128,photo,11.38,Flexible Tape,19.19,Casuarina,Not Eucalypt,flat,forest,On the edge of a small creek (Elizabeth Chaffey Reserve)
+Shanella Madanayake,Regidrago,Google Maps (Phone App),-33.716656,150.983582,photo,13.45,Flexible Tape,35.11,Eucalypt,Eucalypt,slope,forest,Fred Caterson Reserve 
+Shanella Madanayake,Regice,Google Maps (Phone App),-33.716519,150.982645,photo,16,Flexible Tape,48.6,Eucalypt,Eucalypt,flat,forest,Fred Caterson Reserve 
+shizhen lyu,lianhua 5,Latitude and longitude positioning (phone app),22.555529,114.067632,photo,6.2,flexiable tape measure,64.6,,unknown,flat,forest,
+shizhen lyu,lianhua 4,Latitude and longitude positioning (phone app),22.555165,114.067742,photo,6,flexiable tape measure,49.7,,unknown,flat,forest,
+Sophia Koller,yellow,Google maps app,-33.728834,151.048387,photo,9.45,Flexible tape,15.76,NA,unknown,slope,forest,
+Sophia Koller,red,Google maps app,-33.728575,151.048711,photo,8.46,Flexible tape,16.07,NA,unknown,moderate-steep,forest,
+Sophia Koller,orange,Google maps app,-33.728801,151.048628,photo,14.99,Flexible tape,73.85,Eucalyptus,Eucalypt,moderate-steep,forest,
+Sophia Koller,indigo,Google maps app,-33.729421,151.048236,photo,7.67,Flexible tape,10.82,NA,unknown,moderate-steep,forest,Next to creek
+Sophia Koller,green,Google maps app,-33.729374,151.047781,photo,7.98,Flexible tape,12.57,Casuarina,Not Eucalypt,slope,forest,
+Sophia Koller,blue,Google maps app,-33.729733,151.047938,photo,19.09,Flexible tape,43.29,Eycalyptus,Eucalypt,flat,forest,Next to creek
+Steph Atkinson,Snape,Google Maps Phone,-33.89682,151.25884,angle,16.5,Tape measure,60.8,Banksia,Not Eucalypt,flat,forest,
+Steph Atkinson,Ron,Google Maps Phone,-33.89551,151.25788,angle,26.5,Tape measure,52.52,Pine,Not Eucalypt,slope,forest,
+Steph Atkinson,Hermione,Google Maps Phone,-33.89572,151.25734,angle,12.95,Tape measure,26.42,Eucalyptus,Eucalypt,slope,forest,
+Steph Atkinson,Hagrid,Google Maps Phone,-33.89445,151.25711,angle,26.3,Tape measure,184.62,Fig,Not Eucalypt,slope,forest,Circumference undulating
+Stephanie Woolley,nemo ,Google Maps (phone),-33.7275035,151.1315651,angle,3.7,flexible tape measure,82.4,unsure,unknown,flat,forest,
+Stephanie Woolley,marlin,Google Maps (phone),-33.7271644,151.1316908,angle,2.1,flexible tape measure,25.3,Eucalyptus,Eucalypt,flat,forest,
+Stephanie Woolley,dory,Google Maps (phone),-33.7275665,151.1314186,angle,2.4,flexible tape measure,23.2,Eucalyptus,Eucalypt,flat,forest,
+Stephanie Woolley,crush,Google Maps (phone),-33.7270498,151.1317602,angle,2.5,flexible tape measure,21.2,Eucalyptus,Eucalypt,flat,forest,
+TIANLE LYU,Miles Bridges,Google map phone,-33.9647578,151.2617387,photo,13.56,retractable metal tape,53.4,N/A,unknown,slope,forest,
+TIANLE LYU,Antony Davis,Google map phone,-33.9180725,151.217211,photo,6.38,Flexible tape,220,N/A,unknown,flat,forest,
 Will Connor,Jerry,Google maps (phone),-33.900475,151.232491,angle,15.4,tape Measure,67,Paperbark,Not Eucalypt,flat,forest,
 Will Connor,Jeff,Google maps (phone),-33.897097,151.236399,angle,18.2,tape Measure,41,Unknown,unknown,flat,forest,
-William Brockie,T1A,Google Maps (phone),-33.940442,151.141862,photo,6.56,Flexible tape,23.7,Unsure ,Not Eucalypt,flat,alone,
-William Brockie,T1F,Google Maps (phone),-33.942836,151.135716,photo,11.9,Flexible tape,30.4,Eucalypt,Eucalypt,flat,alone,
-William Brockie,T1B,Google Maps (phone),-33.940784,151.141861,photo,13.7,Flexible tape,32.2,Eucalypt,Eucalypt,flat,alone,
-William Brockie,T1D,Google Maps (phone),-33.944311,151.134638,photo,14.4,Flexible tape,35.3,Eucalypt,Eucalypt,flat,alone,
-William Brockie,T1E,Google Maps (phone),-33.943466,151.134217,photo,15.3,Flexible tape,38.5,Eucalypt,Eucalypt,flat,alone,
-William Brockie,T1C,Google Maps (phone),-33.943623,151.136727,photo,15.8,Flexible tape,40.6,Eucalypt,Eucalypt,flat,alone,
+Yantong Feng,TF,Google maps (phone),39.94291,116.1734774,photo,5.32,flexible tape,12.74,Malus,Not Eucalypt,flat,forest,
 Yantong Feng,TE,Google maps (phone),39.935604,116.1782581,photo,4.15,flexible tape,11.15,locust-trees,Not Eucalypt,flat,forest,near road
 Yantong Feng,TD,Google maps (phone),39.935604,116.1853512,photo,4.58,flexible tape,22.29,cherry tree,Not Eucalypt,flat,forest,At the park
 Yantong Feng,TC,Google maps (phone),39.935406,116.1858014,photo,5.13,flexible tape,17.19,pine tree,Not Eucalypt,flat,forest,At the park
-Yantong Feng,TF,Google maps (phone),39.94291,116.1734774,photo,5.32,flexible tape,12.74,Malus,Not Eucalypt,flat,forest,
-Yantong Feng,TA,Google maps (phone),39.9344605,116.1858239,photo,6.25,flexible tape,26.43,ginkgo tree,Not Eucalypt,flat,forest,near road
 Yantong Feng,TB,Google maps (phone),39.9353395,116.1859453,photo,10.49,flexible tape,59.87,Populus,Not Eucalypt,flat,forest,near road
-Yingchao Cai,short1_cca,Google Earth Phone,-33.77902,151.11519,photo,2.25,Flexible tape,13.1,Eucalyptus,Eucalypt,flat,alone,Road side
-Yingchao Cai,short2_cca,Google Earth Phone,-33.77693,151.11499,photo,6.35,Flexible tape,17.2,Oleaceae (unsure),Not Eucalypt,flat,alone,Road side / inside Uni
-Yingchao Cai,mid1_cca,Google Earth Phone,-33.77746,151.11583,photo,7.33,Flexible tape,45.8,Oleaceae (unsure),Not Eucalypt,flat,alone,inside Uni
-Yingchao Cai,mid2_cca,Google Earth Phone,-33.77945,151.11504,photo,9,Flexible tape,46.2,unknown,unknown,flat,alone,few leaves / inside Uni
-Yingchao Cai,high1_cca,Google Earth Phone,-33.77949,151.11480,photo,14.88,Flexible tape,72.9,Eucalyptus,Eucalypt,flat,alone,
-Yingchao Cai,high2_cca,Google Earth Phone,-33.77835,151.11563,photo,17.35,Flexible tape,92.6,Oleaceae (unsure),Not Eucalypt,flat,alone,inside Uni
-Youxin Chen,Maya1,Google Maps,31.15377393,121.3900116,angle,3.8,Flexible Tape,8.4,Magnolia Alba,Not Eucalypt,flat,alone,
-Youxin Chen,Maya2,Google Maps,31.15359056,121.3886019,angle,5.1,Flexible Tape,14.3,Magnolia Alba,Not Eucalypt,flat,alone,
-Youxin Chen,Pita2,Google Maps,31.15404994,121.3908258,angle,5.6,Flexible Tape,13.3,Pinus tabuliformis,Not Eucalypt,flat,alone,
-Youxin Chen,Concetta2,Google Maps,31.15368514,121.3892221,angle,5.8,Flexible Tape,16.2,Cinnamomum camphora,Not Eucalypt,flat,alone,
-Youxin Chen,Concetta1,Google Maps,31.15369286,121.3897815,angle,14.7,Flexible Tape,40,Cinnamomum camphora,Not Eucalypt,flat,alone,
-Youxin Chen,Pita1,Google Maps,31.15392448,121.3903138,angle,19.5,Flexible Tape,89.6,Pinus tabuliformis,Not Eucalypt,flat,alone,
-yushu zhang,doki,Google map app,43.880172,87.623739,angle,7.65,Flexible Tape,16,Ginkgo biloba,Not Eucalypt,flat,alone,planted
-yushu zhang,kiwi,Google map app,43.880749,87.617884,angle,8.24,Flexible Tape,20,Ginkgo biloba,Not Eucalypt,flat,alone,Planted
-yushu zhang,jelly,Google map app,43.877439,87.623573,angle,8.38,Flexible Tape,26,Ginkgo biloba,Not Eucalypt,flat,alone,planted
-yushu zhang,qiaqia,Google map app,43.879646,87.613349,angle,15.38,Flexible Tape,98.2,Ulmus pumila,Not Eucalypt,slope,alone,Planted
-yushu zhang,moke,Google map app,43.879419,87.613326,angle,16.28,Flexible Tape,101,Ulmus pumila,Not Eucalypt,slope,alone,Planted
-yushuzhang,yoyo,Google map app,43.873783,87.609867,angle,13.45,Flexible Tape,72,Ulmus pumila,Not Eucalypt,flat,alone,planted
-Zac Slevin,were,Google Maps phone app,-33.940829,151.247535,photo,2.98,flexible tape,14.96,no clue,unknown,flat,alone,
-Zac Slevin,their,Google Maps phone app,-33.94303,151.249969,photo,4.1,flexible tape,10.82,no clue,unknown,flat,alone,
-Zac Slevin,we're,Google Maps phone app,-33.94001,151.24953,photo,7.74,flexible tape,39.15,no clue,unknown,flat,alone,
-Zac Slevin,where,Google Maps phone app,-33.941331,151.247951,photo,7.8,flexible tape,42.02,no clue,unknown,slope,alone,
-Zac Slevin,they're,Google Maps phone app,-33.942953,151.250277,photo,7.98,flexible tape,34.38,palm?,Not Eucalypt,flat,alone,
-Zac Slevin,there,Google Maps phone app,-33.942441,151.250761,photo,10.42,flexible tape,46.79,no clue,unknown,slope,alone,
-Zainah Reshty,T1,Google Maps (Phone App),-33.8211707,150.9329492,photo,6.8,flexible tape,18.78,Eucalypt,Eucalypt,flat,forest,planted near road
-Zainah Reshty,T3,Google Maps (Phone App),-33.8212044,150.932969,photo,7.4,flexible tape,25.46,Eucalypt,Eucalypt,flat,forest,planted near road 
-Zainah Reshty,T2,Google Maps (Phone App),-33.8211941,150.9329602,photo,7.9,flexible tape,37.56,Eucalyptus Sideroxlylon ,Eucalypt,flat,forest,planted near road
-Zainah Reshty,T4,Google Maps (Phone App),-33.8212067,150.9329183,photo,7.9,flexible tape,41.7,Eucalypt,Eucalypt,flat,forest,planted near road
+Yantong Feng,TA,Google maps (phone),39.9344605,116.1858239,photo,6.25,flexible tape,26.43,ginkgo tree,Not Eucalypt,flat,forest,near road
 Zainah Reshty,T6,Google Maps (Phone App),-33.8212331,150.932687,photo,7.9,flexible tape,35.01,Eucalyptus Sideroxlylon,Eucalypt,flat,forest,planted near road
 Zainah Reshty,T5,Google Maps (Phone App),-33.8212178,150.9328818,photo,8,flexible tape,20.05,Eucalypt,Eucalypt,flat,forest,planted near road 
-Zara Zoe,Boring Green,Google Maps phone,-33.8687968,151.2529159,angle,10.2,Metal Tape Measure,58,Murraya?,Not Eucalypt,flat,alone,Roadside - healthy
-Zara Zoe,Double Boring Green,Google Maps Phone,-33.8691239,151.2528351,angle,10.4,Metal Tape Measure,49,Murraya?,Not Eucalypt,flat,alone,Roadside - healthy
-Zara Zoe,Big Boy Fig,Google Maps Phone,-33.8692856,151.2528224,angle,26.9,Metal Tape Measure,120,Ficus,Not Eucalypt,flat,alone,Roadside - healthy
+Zainah Reshty,T4,Google Maps (Phone App),-33.8212067,150.9329183,photo,7.9,flexible tape,41.7,Eucalypt,Eucalypt,flat,forest,planted near road
+Zainah Reshty,T3,Google Maps (Phone App),-33.8212044,150.932969,photo,7.4,flexible tape,25.46,Eucalypt,Eucalypt,flat,forest,planted near road 
+Zainah Reshty,T2,Google Maps (Phone App),-33.8211941,150.9329602,photo,7.9,flexible tape,37.56,Eucalyptus Sideroxlylon ,Eucalypt,flat,forest,planted near road
+Zainah Reshty,T1,Google Maps (Phone App),-33.8211707,150.9329492,photo,6.8,flexible tape,18.78,Eucalypt,Eucalypt,flat,forest,planted near road
 Zara Zoe,Spiky Wench,Google Maps Phone,-33.8691628,151.252865,angle,4.9,Metal Tape Measure,65,Dracaena,Not Eucalypt,slope,forest,In small reserve - healthy
 Zara Zoe,Palmy McPalmerson,Google Maps Phone,-33.8691779,151.2528482,angle,9.5,Metal Tape Measure,57,Palm,Not Eucalypt,slope,forest,In small reserve - healthy
-Zoe Ball,Lorax,Google Maps (phone),-33.9892821,151.1190442,photo,17.2,String,39.8,Eucalypt,Eucalypt,moderate-steep,alone,"next to carpark, surrounded by shrubs"
-Zoe Ball,Matilda,Google Maps (phone),-33.9900671,151.1194894,photo,19.5,String,34.5,Pine tree,Not Eucalypt,flat,alone,"trees lining a beach, mostly planted when area was turned into a recreational park"
-Zoe Ball,DannyDevito,Google Maps (phone),-33.98983,151.1197231,photo,20.64,String,100,Fig,Not Eucalypt,slope,alone,on the edge of a small drop and staircase
-Zoe Ball,Tiffany,Google Maps (phone),-33.9906723,151.1166262,photo,20.7,String,43.9,she oak,Not Eucalypt,flat,alone,scattered trees throughout at recreation park
 Zoe Ball,lilLad,Google Maps (phone),-33.9894823,151.1178328,photo,6.88,String,7,?,unknown,moderate-steep,forest,small bush park area? carss bush park
 Zoe Ball,Kaitylynn,Google Maps (phone),-33.9899073,151.116933,photo,24.15,String,41.22,Eucalypt?,Eucalypt,flat,forest,on the edge of a small bush region but divided by a road/path
+Amber Cashman,Tall Paul ,Google maps (phone),-32.32488,152.526807,angle,38.3,flexible tape,138.78,Gum,Eucalypt,flat ,forest,
+Amber Cashman ,Moss Ross ,Google maps (phone),-32.32551,152.52708,angle ,27.2,flexible tape,79.57,casuarina,Not Eucalypt,flat ,forest,
+Carey Maeder ,Piece controlled,Google maps ,-33.714704,151.007589,photo,2.3,flexable tape ,21,NA,unknown,moderate-steep,forest,ungualting hills 
+Carey Maeder ,Kid cudi ,Google maps ,-33.714639,151.007802,photo,5.4,flexable tape ,34,NA,unknown,moderate-steep,forest,ungualting hills 
+Carey Maeder ,David,Google maps ,-33.719411,151.014408,photo,4.7,flexable tape ,33,NA,unknown,moderate-steep,forest,ungualting hills 
+Carey Maeder ,cheif keef ,Google maps ,-33.71483,151.007414,photo,5.6,flexable tape ,36,NA,unknown,moderate-steep,forest,ungualting hills 
+Carey Maeder ,Champions league ,Google maps ,-33.714592,151.008098,photo,3.1,flexable tape ,26,NA,unknown,moderate-steep,forest,ungualting hills 
+Carey Maeder ,Cash cup warrior,Google maps ,-33.715029,151.007641,photo,2.1,flexable tape ,25,NA,unknown,moderate-steep,forest,ungualting hills 
+Gerard Roebuck,Large Larry,Google Maps App,-33.495918,150.152052,photo,14.4,Flexible tape,46.4732,Eucalyptus,Eucalypt,slope,forest,Sheedy's Gully
+Holly Gamboa ,Yoshi ,Google maps phone,-34.014201,151.0079414,angle,25.6,Flexible tape,66.85,Eycalyptus,Eucalypt,flat,forest,On the edge of the Reserve 
+Arianah Pantazis,Skinny Mini,Google Maps on Phone,-34.06418,150.821899,Photo,5.86,String,20.69,Eucalypt,Eucalypt,Flat,small group,Park
+Arianah Pantazis,Scruffy,Google Maps on Phone,-34.063049,150.820755,Photo,7.16,String,43.29,Pine,Not Eucalypt,Flat,small group,Park
+Arianah Pantazis,Cockatoo,Google Maps on Phone,-34.064466,150.822075,Photo,12.53,String,92.31,Eucalypt,Eucalypt,Flat,small group,Park
+Arianah Pantazis,Ashton,Google Maps on Phone,-34.063493,150.821154,Photo,8.35,String,44.56,Ash Tree,Not Eucalypt,Flat,small group,Park
+Aidan Lowe,Persephone,Google Maps broswer,-33.90735,151.22521,photo,5.4,Flexble tape,25.5,n/a,unknown,flat,small group,
+Aidan Lowe,Aphrodite,Google Maps broswer,-33.90733,151.22532,photo,5.1,Flexible tape,21,n/a,unknown,flat,small group,
+Alina Gregory,Venus ,Google Maps (phone),-33.984607,151.235981,photo,11.8,flexible tape,43.89,stringy bark?,Eucalypt,flat,small group,
+Alina Gregory,Mercury,Google Maps (phone),-33.984543,151.235711,photo,12.5,flexible tape,48.97,unknown,unknown,flat,small group,
+Alina Gregory,Earth,Google Maps (phone),-33.984982,151.235361,photo,13.4,flexible tape,53.15,stringy bark?,Eucalypt,flat,small group,
+Clare Jackson,Napoletana Pata,google maps (browser),-33.88392,150.84597,photo,5.2,flexible tape,7,eucalypt,Eucalypt,slope,small group,grassy at base
+Clare Jackson,Linguini Villaggio,google maps (browser) ,-33.88607,150.84699,photo,6.4,flexible tape,29.8,eucalypt,Eucalypt,flat,small group,dirt around base
+Clare Jackson,Gnocchi Amoretti,google maps (browser),-33.88394,150.84593,photo,10.6,flexible tape,19.1,eucalypt,Eucalypt,slope,small group,grassy at base
+Claudia Lambert-Bridges,swords,Google Maps (phone),-33.893238,151.23761,angle,36.07,tape Measure,108.2,pine tree,Not Eucalypt,flat,small group,
+Claudia Lambert-Bridges,cups,Google Maps (phone),-33.892604,151.237068,angle,7.82,tape Measure,14.6,wattle tree,Not Eucalypt,flat,small group,
+Ellie Reardon,Ripley,google maps iphone ,-33.949885,151.254203,angle,11.9,flexible tape,53.5,,unknown,flat,small group,in a park
+Ellie Reardon,Lambert,google maps iphone ,-33.949973,151.254285,angle,21.1,flexible tape,40.4,,unknown,flat,small group,in a park
+Ellie Reardon,Alien,google maps iphone,-33.950443,151.254856,angle,14.4,flexible tape,31.4,,unknown,slope,small group,in a park
+Jessica Gu,pqr,Google Maps (phone),32.4944903,119.920295,photo,7.79,flexible tape,23.55,unsure,unknown,flat,small group,
+Jessica Gu,mno,Google Maps (phone),32.494593,119.9191531,photo,7.34,flexible tape,25.46,unsure,unknown,flat,small group,
+Jessica Gu,jkl,Google Maps (phone),32.4945913,119.919145,photo,5.43,flexible tape,15.28,unsure,unknown,flat,small group,
+Jessica Gu,ghi,Google Maps (phone),32.4944634,119.9190297,photo,4.63,flexible tape,16.55,unsure,unknown,flat,small group,
+Jessica Gu,def,Google Maps (phone),32.4940726,119.9184648,photo,13.74,flexible tape,45.52,unsure,unknown,flat,small group,
+Jessica Gu,abc,Google Maps (phone),32.4943277,119.9186616,photo,11.84,flexible tape,32.79,unsure,unknown,flat,small group,
+Jessie Gregory,Spencer,Google Maps (phone),-33.5881795,150.9355526,photo,4.43,Tape measure,38,unknown,unknown,flat,small group,
+Jessie Gregory,Kayleigh,Google Maps (phone),-33.588649,150.9359151,photo,9.75,Tape Measure,110.5,eucalyptus ,Eucalypt,flat,small group,
+Jessie Gregory,Gilbert,Google Maps (phone),-33.5883167,150.9355375,photo,6.63,Tape measure,82,unknown,unknown,flat,small group,
+Lottie Barry,fred v2,Google Maps (phone),-33.852778,151.143473,photo,14.53,flexible tape,59.84,unsure,unknown,flat,small group,
+Mia Mather,Sheryl,google maps iphone,-33.9086313,151.1962321,photo,18.94,"string,then measured by tape measure ",36.83,She-oak,Not Eucalypt,flat,small group,"in a small group of trees in a park,  barky ground "
+Monique Lush,Luke the Euc ,Google Maps,-33.8534174,151.1372349,angle ,22.8,Measuring Tape,61.4,Eucalyptus ,Eucalypt,flat ,small group,Surrounding an oval
+Monique Lush,Einstiein the Pine ,Google Maps,-33.8515897,151.1399081,angle ,10.6,Measuring Tape,31.8,Pine ,Not Eucalypt,flat ,small group,Surrounding an oval
+Monique Lush,Duke the Euc,Google Maps,-33.8524239,151.1370463,angle ,12.3,Measuring Tape,43,Eucalyptus ,Eucalypt,flat ,small group,Surrounding an oval
+Naina Bhonagiri,Ian G Burgess,Google Maps Phone,-33.9017814,151.2394888,angle,12.75,Flexible Tape,0.363,Liquidambar Styraciflua,Not Eucalypt,flat,small group,near lake
+Skye Gregory,phone,Google Maps (phone),-33.7914551,150.990162,angle,28.4,flexible tape,79.8,unsure,unknown,slope,small group,
+Skye Gregory,pencil,Google Maps (phone),-33.7914342,150.9902154,angle,15.9,flexible tape,26.2,unsure,unknown,slope,small group,
+Skye Gregory,lamp,Google Maps (phone),-33.7914509,150.9901751,angle,30.4,flexible tape,81.3,unsure,unknown,slope,small group,
+Skye Gregory,earphones,Google Maps (phone),-33.7914378,150.9901952,angle,26.6,flexible tape,76.4,unsure,unknown,slope,small group,
+Skye Gregory,computer,Google Maps (phone),-33.7914659,150.9901463,angle,36.8,flexible tape,110.3,unsure,unknown,slope,small group,
+Syarifah Alisya,ursula,google maps phone,2.9174456,101.6893341,photo,11.05,flexible tape,29.6,,unknown,moderate-steep,small group,at the park
+Syarifah Alisya,phobe,google maps phone,2.9168931,101.6893877,photo,6.85,flexible tape,33.74,,unknown,flat,small group,at the park
+Thy Tran,Soil ,Google Maps Browser,-33.884088,150.91281,photo,8.89,Flexible Tape,31.19,Paperbark,Not Eucalypt,flat,small group,From a park
+Thy Tran,Hydrolysis,Google Maps Browser,-33.884023,150.912515,photo,18.76,Flexible Tape,44.88,Eucalyptus,Eucalypt,flat,small group,From a park
+Pui Lam Hung,samll tree 1,Google maps (browser),22.316703,114.236105,photo,10.65,flexible tape,32.07,Euphorbiaceae,Not Eucalypt,slope,unknown,
+TIANLE LYU,Luka Doncic,Google map phone,-33.9250142,151.2170947,photo,5.2,retractable metal tape,0.334,N/A,unknown,flat,unknown,planted near the road
+TIANLE LYU,Lamelo Ball,Google map phone,-33.9051834,151.2220898,photo,7.74,retractable metal tape,74,N/A,unknown,flat,unknown,near the road
